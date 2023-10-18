@@ -1,5 +1,5 @@
 ---
-title: Semaine 8
+title: Consignes
 layout: post
 ---
 
