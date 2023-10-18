@@ -11,4 +11,4 @@ Une expérience intéractive ayant pour but de vous mettre dans la peau d'une ro
 
 [Semaine 8](journaux/semaine8.md)
 
-[Semaine X](journaux/semaineXX.md)
+[Semaine 1](journaux/semaine1.md)
