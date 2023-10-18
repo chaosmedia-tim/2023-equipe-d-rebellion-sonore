@@ -10,3 +10,6 @@ layout: post
 ## Difficultés et défis
 
 ## Tâches effectuées
+- First item
+- Second item
+- Third item
