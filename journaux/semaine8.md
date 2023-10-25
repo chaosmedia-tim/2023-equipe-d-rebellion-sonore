@@ -30,6 +30,8 @@ J'ai réorganisé le Trello et les tâches effectuées par l'équipe. J'ai aussi
 
 Durant cette semaine, j'ai surtout fais de la recherche afin de pouvoir créer la première musique de notre projet. J'ai exploré Ableton et Reaper pour mieux me familliarisé avec leurs interface. J'ai trouvé une drum track qui me plait pour, par la suite, composer la bass line en me basant sur cette dernière.  
 
+![Kevin Robert](../medias/kevin_sem8.jpg)
+
 ## Bon coups et réussites
 
 ## Difficultés et défis
@@ -48,6 +50,10 @@ On a fait un compte Facebook pour faciliter la gestion des réseaux sociaux, mai
 
 ### Xavier:
 Trouvé des prefabs et sculpter une tete de dragon. il est difficile car tout les bon prefabs sont payant. Sculpter de haut niveau est plus dure que prevue.
+
+### Kevin:
+
+J'ai eu de la difficulté à pouvoir enregistrer ma basse correctement. J'utilise un interface audio afin de pouvoir enregistrer ma basse dans Ableton, le problème est que je n'arrivais pas à connecter mes écouteur à cette interface. J'ai trouvé après plusieurs recherches que le problème était que mes écouteurs ont tous des microphones, donc j'ai acheté un adaptateur qui sépare les écouteurs du micro et, finalement, ça a fonctionné. La qualité audio n'est pas super bonne, probablement à cause du voltage des deux appareils. Au moins je peux savoir ce que je joue. 
 
 ## Tâches effectuées
 
