@@ -21,9 +21,18 @@ Kevin et moi avons commencé à faire des recherches sur les différents instrum
 J'ai trouvée des parties de mes models en prefab telle que la guitar et le corp du personnage dragon. j'ai debuter la tete du prsonnage de type dragon. 
 ![capture d'écran Reaper](../medias/XavierPerrasdragonV0.2.JPG)
 
+### Évan: 
+
+J'ai réorganisé le Trello et les tâches effectuées par l'équipe. J'ai aussi refait le budget en ayant une meilleure vision des équipements qui nous seraient disponibles pour le projet. Moi et Mégane avont fait les comptes du projet sur les résaux sociaux.
+
+
 ## Bon coups et réussites
 
 ## Difficultés et défis
+
+### Évan:
+
+Il y eu des problèmes avec la création du compte Facebook du projet. La page a finit par être effacé à cause d'un manque d'information concernant le projet.
 
 ### Justin:
 
@@ -42,3 +51,5 @@ Trouvé des prefabs et sculpter une tete de dragon. il est difficile car tout le
 - Création d'un logo et d'une photo de couverture pour les réseaux sociaux
 - Début de la création d'une musique
 - debut création personnage 1
+- Réorganisation du Trello
+- Réorganisation du budget
