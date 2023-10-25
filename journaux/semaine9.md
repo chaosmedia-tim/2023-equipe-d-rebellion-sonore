@@ -9,6 +9,10 @@ layout: post
 
 J'ai recréé la page Facebook sur mon compte personnel, puisque le compte Facebook que nous avions créé a été désactivé.
 
+### Évan:
+
+J'ai commencé à créer un décors pour une des animations du jeu. Moi et Mégane avont aussi commencé la préparation pour la capsule promotionnelle.
+
 ## Bon coups et réussites
 
 ## Difficultés et défis
@@ -16,5 +20,6 @@ J'ai recréé la page Facebook sur mon compte personnel, puisque le compte Faceb
 ## Tâches effectuées
 
 - Recréation et reconfiguration de la page Facebook
-- Second item
+- 
 - Third item
+- 
