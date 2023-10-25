@@ -17,6 +17,10 @@ Kevin et moi avons commencé à faire des recherches sur les différents instrum
 
 ![capture d'écran Reaper](../medias/justin_sem8.png)
 
+### Xavier:
+J'ai trouvée des parties de mes models en prefab telle que la guitar et le corp du personnage dragon. j'ai debuter la tete du prsonnage de type dragon. 
+![capture d'écran Reaper](../medias/XavierPerrasdragonV0.2.JPG)
+
 ## Bon coups et réussites
 
 ## Difficultés et défis
@@ -29,8 +33,12 @@ Kevin et moi avons décidé d'utiliser le logiciel Reaper pour le montage audio,
 
 On a fait un compte Facebook pour faciliter la gestion des réseaux sociaux, mais il s'est fait désactivé et nous n'avions plus accès à la page Facebook que nous avions créée.
 
+### Xavier:
+Trouvé des prefabs et sculpter une tete de dragon. il est difficile car tout les bon prefabs sont payant. Sculpter de haut niveau est plus dure que prevue.
+
 ## Tâches effectuées
 
 - Création et configuration des réseaux sociaux
 - Création d'un logo et d'une photo de couverture pour les réseaux sociaux
 - Début de la création d'une musique
+- debut création personnage 1
