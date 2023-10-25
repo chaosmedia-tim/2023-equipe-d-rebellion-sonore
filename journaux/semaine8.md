@@ -24,7 +24,7 @@ J'ai trouvée des parties de mes models en prefab telle que la guitar et le corp
 ### Évan: 
 
 J'ai réorganisé le Trello et les tâches effectuées par l'équipe. J'ai aussi refait le budget en ayant une meilleure vision des équipements qui nous seraient disponibles pour le projet. Moi et Mégane avont fait les comptes du projet sur les résaux sociaux.
-
+![Capture d'écran Trello](../medias/trello.png)
 
 ## Bon coups et réussites
 
