@@ -32,7 +32,17 @@ Durant cette semaine, j'ai surtout fais de la recherche afin de pouvoir créer l
 
 ![Kevin Robert](../medias/kevin_sem8.jpg)
 
+### Charles:
+
+Pendant cette semaine, j'ai fait la plupart de la programmation Unity pour avoir un système de notes et de score, avec une musique en placeholder. J'ai aussi trouvé un moyen de synchroniser les LEDs avec ce qui arrive sur l'écran sur Unity, pour qu'on puisse faire des effets et du level design plus facilement.
+
+![Capture d'écran du projet Unity](../medias/sem8_charles.PNG)
+
 ## Bon coups et réussites
+
+### Charles:
+
+J'ai trouvé une façon de convertir le viewport Unity en quelque chose que les LEDs peuvent afficher, grâce à un logiciel qui prend des parties de mon écran et qui les convertit en signaux qu'il envoie au Arduino UNO qui fait allumer les LEDs. Avec ceci, ce sera plus facile prochainement de faire des effets.
 
 ## Difficultés et défis
 
@@ -55,6 +65,10 @@ Trouvé des prefabs et sculpter une tete de dragon. il est difficile car tout le
 
 J'ai eu de la difficulté à pouvoir enregistrer ma basse correctement. J'utilise un interface audio afin de pouvoir enregistrer ma basse dans Ableton, le problème est que je n'arrivais pas à connecter mes écouteur à cette interface. J'ai trouvé après plusieurs recherches que le problème était que mes écouteurs ont tous des microphones, donc j'ai acheté un adaptateur qui sépare les écouteurs du micro et, finalement, ça a fonctionné. La qualité audio n'est pas super bonne, probablement à cause du voltage des deux appareils. Au moins je peux savoir ce que je joue. 
 
+### Charles:
+
+J'ai eu de la misère avec certains aspects de la programmation, comme le score. J'ai aussi eu quelques problèmes avec Visual Studio qui ne voulait pas bien formatter le code pour que je travaille dessus.
+
 ## Tâches effectuées
 
 - Création et configuration des réseaux sociaux
@@ -63,3 +77,4 @@ J'ai eu de la difficulté à pouvoir enregistrer ma basse correctement. J'utilis
 - debut création personnage 1
 - Réorganisation du Trello
 - Réorganisation du budget
+- Début de la création de la base du jeu + prototype
