@@ -7,7 +7,7 @@ layout: post
 
 ### Mégane:
 
-J'ai recréer la page Facebook sur mon compte personnel, puisque le compte Facebook que nous avions créer a été désactivé.
+J'ai recréé la page Facebook sur mon compte personnel, puisque le compte Facebook que nous avions créé a été désactivé.
 
 ## Bon coups et réussites
 
