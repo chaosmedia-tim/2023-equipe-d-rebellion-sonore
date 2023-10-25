@@ -8,6 +8,7 @@ layout: post
 ### Mégane:
 
 ![logo media sociaux](../medias/Logo_Neon_socialmedia.png)
+
 J'ai fait une nouvelle version du logo pour les réseaux sociaux, et j'ai fait une image de cover pour Facebook.
 
 ### Justin:
