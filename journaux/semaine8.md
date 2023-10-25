@@ -32,4 +32,4 @@ On a fait un compte Facebook pour faciliter la gestion des réseaux sociaux, mai
 
 - Création et configuration des réseaux sociaux
 - Création d'un logo et d'une photo de couverture pour les réseaux sociaux
-- Third item
+- Début de la création d'une musique
