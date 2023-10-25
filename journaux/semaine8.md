@@ -26,6 +26,10 @@ J'ai trouvée des parties de mes models en prefab telle que la guitar et le corp
 J'ai réorganisé le Trello et les tâches effectuées par l'équipe. J'ai aussi refait le budget en ayant une meilleure vision des équipements qui nous seraient disponibles pour le projet. Moi et Mégane avont fait les comptes du projet sur les résaux sociaux.
 ![Capture d'écran Trello](../medias/trello.png)
 
+### Kevin:
+
+Durant cette semaine, j'ai surtout fais de la recherche afin de pouvoir créer la première musique de notre projet. J'ai exploré Ableton et Reaper pour mieux me familliarisé avec leurs interface. J'ai trouvé une drum track qui me plait pour, par la suite, composer la bass line en me basant sur cette dernière.  
+
 ## Bon coups et réussites
 
 ## Difficultés et défis
