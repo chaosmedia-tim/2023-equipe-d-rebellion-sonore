@@ -9,7 +9,7 @@ layout: post
 
 ![logo media sociaux](../medias/Logo_Neon_socialmedia.png)
 
-J'ai fait une nouvelle version du logo pour les réseaux sociaux, et j'ai fait une image de cover pour Facebook.
+J'ai fait une nouvelle version du logo pour les réseaux sociaux, j'ai fait une image de cover pour Facebook, et j'ai fait une publication sur Facebook.
 
 ### Justin:
 
@@ -73,6 +73,7 @@ J'ai eu de la misère avec certains aspects de la programmation, comme le score.
 
 - Création et configuration des réseaux sociaux
 - Création d'un logo et d'une photo de couverture pour les réseaux sociaux
+- Publication sur Facebook
 - Début de la création d'une musique
 - debut création personnage 1
 - Réorganisation du Trello
