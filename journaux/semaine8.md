@@ -9,7 +9,7 @@ layout: post
 
 ![logo media sociaux](../medias/Logo_Neon_socialmedia.png)
 
-J'ai fait une nouvelle version du logo pour les réseaux sociaux, j'ai fait une image de cover pour Facebook, et j'ai fait une publication sur Facebook.
+J'ai fait une nouvelle version du logo pour les réseaux sociaux, j'ai fait une image de cover pour Facebook, et j'ai fait une publication sur Facebook. Moi et Évan avont fait les comptes du projet sur les réseaux sociaux.
 
 ### Justin:
 
@@ -23,7 +23,7 @@ J'ai trouvée des parties de mes models en prefab telle que la guitar et le corp
 
 ### Évan: 
 
-J'ai réorganisé le Trello et les tâches effectuées par l'équipe. J'ai aussi refait le budget en ayant une meilleure vision des équipements qui nous seraient disponibles pour le projet. Moi et Mégane avont fait les comptes du projet sur les résaux sociaux.
+J'ai réorganisé le Trello et les tâches effectuées par l'équipe. J'ai aussi refait le budget en ayant une meilleure vision des équipements qui nous seraient disponibles pour le projet. Moi et Mégane avont fait les comptes du projet sur les réseaux sociaux.
 ![Capture d'écran Trello](../medias/trello.png)
 
 ### Kevin:

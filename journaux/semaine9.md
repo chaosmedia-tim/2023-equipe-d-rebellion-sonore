@@ -9,7 +9,7 @@ layout: post
 
 J'ai recréé la page Facebook sur mon compte personnel, puisque le compte Facebook que nous avions créé a été désactivé.
 ![Megane AfterEffects](../medias/MotionDesign_Megane.png)
-J'ai travaillé sur le *motion design* du logo de Rébellion Sonore pour la capsule promotionnelle, et j'ai fait une publication sur Instagram.
+J'ai travaillé sur le *motion design* du logo de Rébellion Sonore pour la capsule promotionnelle, et j'ai fait une publication sur Instagram. Moi et Évan avont aussi commencé la planification pour la capsule promotionnelle.
 
 ### Évan:
 
@@ -23,5 +23,5 @@ J'ai commencé à créer un décors pour une des animations du jeu. Moi et Méga
 
 - Recréation et reconfiguration de la page Facebook
 - Création de l'animation du logo de Rébellion Sonore pour la capsule promotionnelle
-- Third item
+- Préparation/planification de la capsule promotionnelle
 - 
