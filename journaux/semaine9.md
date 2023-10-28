@@ -13,15 +13,21 @@ J'ai travaillé sur le *motion design* du logo de Rébellion Sonore pour la caps
 
 ### Évan:
 
-J'ai commencé à créer un décors pour une des animations du jeu. Moi et Mégane avont aussi commencé la préparation pour la capsule promotionnelle.
+J'ai commencé à créer un décors pour une des animations du jeu sur Blender. Moi et Mégane avont aussi commencé la préparation pour la capsule promotionnelle.
+
+![Beta du premier décor](../medias/decor1_beta.png)
 
 ## Bon coups et réussites
 
 ## Difficultés et défis
+
+### Évan:
+
+J'ai un peu de difficulté avec le décor pour trouver le bon éclairage et les bon assets.
 
 ## Tâches effectuées
 
 - Recréation et reconfiguration de la page Facebook
 - Création de l'animation du logo de Rébellion Sonore pour la capsule promotionnelle
 - Préparation/planification de la capsule promotionnelle
-- 
+- Recherches d'assets pour le décor 3D et montage d'une partie de la scène Blender
