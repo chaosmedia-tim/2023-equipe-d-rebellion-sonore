@@ -5,7 +5,7 @@ layout: post
 
 ## Résumé
 
-## Bon coups et réussites
+## Bons coups et réussites
 
 ## Difficultés et défis
 
