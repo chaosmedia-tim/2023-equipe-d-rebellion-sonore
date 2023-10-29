@@ -23,7 +23,7 @@ J'ai commencé à créer un décor pour une des animations du jeu sur Blender. M
 
 ### Évan:
 
-J'ai un peu de difficulté avec le décor pour trouver le bon éclairage et les bons assets.
+J'ai eu un peu de difficulté avec le décor pour trouver le bon éclairage et les bons assets.
 
 ## Tâches effectuées
 
