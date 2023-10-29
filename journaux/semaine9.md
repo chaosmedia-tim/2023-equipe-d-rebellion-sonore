@@ -9,11 +9,11 @@ layout: post
 
 J'ai recréé la page Facebook sur mon compte personnel, puisque le compte Facebook que nous avions créé a été désactivé.
 ![Megane AfterEffects](../medias/MotionDesign_Megane.png)
-J'ai travaillé sur le _motion design_ du logo de Rébellion Sonore pour la capsule promotionnelle, et j'ai fait une publication sur Instagram. Moi et Évan avont aussi commencé la planification pour la capsule promotionnelle.
+J'ai travaillé sur le _motion design_ du logo de Rébellion Sonore pour la capsule promotionnelle, et j'ai fait une publication sur Instagram. Évan et moi avons aussi commencé la planification pour la capsule promotionnelle.
 
 ### Évan:
 
-J'ai commencé à créer un décors pour une des animations du jeu sur Blender. Moi et Mégane avont aussi commencé la préparation pour la capsule promotionnelle.
+J'ai commencé à créer un décor pour une des animations du jeu sur Blender. Mégane et moi avons aussi commencé la préparation pour la capsule promotionnelle.
 
 ![Beta du premier décor](../medias/decor1_beta.png)
 
@@ -23,7 +23,7 @@ J'ai commencé à créer un décors pour une des animations du jeu sur Blender. 
 
 ### Évan:
 
-J'ai un peu de difficulté avec le décor pour trouver le bon éclairage et les bon assets.
+J'ai un peu de difficulté avec le décor pour trouver le bon éclairage et les bons assets.
 
 ## Tâches effectuées
 
