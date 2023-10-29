@@ -7,7 +7,7 @@ layout: post
 
 ### Mégane:
 
-![logo media sociaux](../medias/Logo_Neon_socialmedia.png)
+![Logo média sociaux](../medias/Logo_Neon_socialmedia.png)
 
 J'ai fait une nouvelle version du logo pour les réseaux sociaux, j'ai fait une image de fond pour Facebook, et j'ai fait une publication sur Facebook. Évan et moi avons fait les comptes du projet sur les réseaux sociaux.
 
@@ -15,12 +15,12 @@ J'ai fait une nouvelle version du logo pour les réseaux sociaux, j'ai fait une 
 
 Kevin et moi avons commencé à faire des recherches sur les différents instruments de musique qu'on peut utiliser pour notre musique. On a décidé de commencer par créer une musique pour le moment avant de créer les autres. Voici à quoi ressemble notre début de montage audio dans le logiciel Reaper :
 
-![capture d'écran Reaper](../medias/justin_sem8.png)
+![Capture d'écran Reaper](../medias/justin_sem8.png)
 
 ### Xavier:
 
 J'ai trouvé des parties de mes modèles en prefabs telles que la guitare et le corps du personnage de type dragon. J'ai décidé de débuter la modélisation par sa tête.
-![capture d'écran Reaper](../medias/XavierPerrasdragonV0.2.JPG)
+![Capture d'écran Reaper](../medias/XavierPerrasdragonV0.2.JPG)
 
 ### Évan:
 
