@@ -7,9 +7,9 @@ layout: post
 
 ### Mégane:
 
-J'ai recréé la page Facebook sur mon compte personnel, puisque le compte Facebook que nous avions créé a été désactivé.
 ![Megane AfterEffects](../medias/MotionDesign_Megane.png)
 J'ai travaillé sur le _motion design_ du logo de Rébellion Sonore pour la capsule promotionnelle, et j'ai fait une publication sur Instagram. Évan et moi avons aussi commencé la planification pour la capsule promotionnelle.
+J'ai fais des recherches de contenus libre de droits pour la vidéo promotionnelle.
 
 ### Évan:
 
@@ -27,7 +27,7 @@ J'ai eu un peu de difficulté avec le décor pour trouver le bon éclairage et l
 
 ## Tâches effectuées
 
-- Recréation et reconfiguration de la page Facebook
 - Création de l'animation du logo de Rébellion Sonore pour la capsule promotionnelle
 - Préparation/planification de la capsule promotionnelle
+- Recherche de contenus libre de droits pour la capsule promotionnelle
 - Recherches d'assets pour le décor 3D et montage d'une partie de la scène Blender

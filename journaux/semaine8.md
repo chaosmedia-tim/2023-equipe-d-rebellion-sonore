@@ -10,6 +10,7 @@ layout: post
 ![Logo média sociaux](../medias/Logo_Neon_socialmedia.png)
 
 J'ai fait une nouvelle version du logo pour les réseaux sociaux, j'ai fait une image de fond pour Facebook, et j'ai fait une publication sur Facebook. Évan et moi avons fait les comptes du projet sur les réseaux sociaux.
+J'ai recréé la page Facebook sur mon compte personnel, puisque le compte Facebook que nous avions créé a été désactivé.
 
 ### Justin:
 
@@ -73,7 +74,7 @@ J'ai eu de la misère avec certains aspects de la programmation, comme le score.
 
 ## Tâches effectuées
 
-- Création et configuration des réseaux sociaux
+- Création et configuration des réseaux sociaux (et recréation/reconfiguration de la page Facebook)
 - Création d'un logo et d'une photo de couverture pour les réseaux sociaux
 - Publication sur Facebook
 - Début de la création d'une musique
