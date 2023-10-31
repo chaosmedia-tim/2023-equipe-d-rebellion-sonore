@@ -19,8 +19,8 @@ J'ai commencé à créer un décor pour une des animations du jeu sur Blender. M
 
 ### Xavier:
 J'ai continuer le devloppement de la tete de dragon. Cette semaine j'ai ajouter des yeux et des dents. j'ai aussi fait le sculptage pour lui donner un meilleur look.
-![tête de dragon sans dents](../medias/dragonTexture.png)
-![tête de dragon avec dents](../medias/DragonDent.png)
+![tête de dragon sans dents](../medias/dragonTexture.PNG)
+![tête de dragon avec dents](../medias/DragonDent.PNG)
 
 ## Bons coups et réussites
 
