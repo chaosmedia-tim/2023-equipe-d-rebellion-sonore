@@ -15,7 +15,6 @@ J'ai recréé la page Facebook sur mon compte personnel, puisque le compte Faceb
 ### Justin:
 
 Kevin et moi avons commencé à faire des recherches sur les différents instruments de musique qu'on peut utiliser pour notre musique. On a décidé de commencer par créer une musique pour le moment avant de créer les autres. Voici à quoi ressemble notre début de montage audio dans le logiciel Reaper :
-
 ![Capture d'écran Reaper](../medias/justin_sem8.png)
 
 ### Xavier:
@@ -31,13 +30,11 @@ J'ai réorganisé le Trello et les tâches effectuées par l'équipe. J'ai aussi
 ### Kevin:
 
 Durant cette semaine, j'ai surtout fait de la recherche afin de pouvoir créer la première musique de notre projet. J'ai exploré Ableton et Reaper pour mieux me familliariser avec leurs interfaces. J'ai trouvé une drum track qui me plait pour, par la suite, composer la bassline en me basant sur cette dernière.
-
 ![Kevin Robert](../medias/kevin_sem8.jpg)
 
 ### Charles:
 
 Pendant cette semaine, j'ai fait la plupart de la programmation Unity pour avoir un système de notes et de score, avec une musique en placeholder. J'ai aussi trouvé un moyen de synchroniser les LED avec ce qui arrive sur l'écran sur Unity, pour qu'on puisse faire des effets et du level design plus facilement.
-
 ![Capture d'écran du projet Unity](../medias/sem8_charles.PNG)
 
 ## Bons coups et réussites
