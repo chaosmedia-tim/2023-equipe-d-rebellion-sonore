@@ -8,6 +8,7 @@ layout: post
 ### Mégane:
 
 ![Megane AfterEffects](../medias/MotionDesign_Megane.png)
+
 J'ai travaillé sur le _motion design_ du logo de Rébellion Sonore pour la capsule promotionnelle, et j'ai fait une publication sur Instagram. Évan et moi avons aussi commencé la planification pour la capsule promotionnelle.
 J'ai fait des recherches de contenus libres de droits pour la vidéo promotionnelle.
 J'ai découpé le fichier audio d'Évan en sections pour faciliter le montage de la vidéo promotionnelle.
@@ -15,6 +16,7 @@ J'ai découpé le fichier audio d'Évan en sections pour faciliter le montage de
 ### Évan:
 
 J'ai commencé à créer un décor pour une des animations du jeu sur Blender. Mégane et moi avons aussi commencé la préparation pour la capsule promotionnelle.
+
 ![Beta du premier décor](../medias/decor1_beta.png)
 
 ### Justin:
@@ -24,7 +26,9 @@ Kevin et moi avons continué l'avancement de la musique. J'ai réussi à trouver
 ### Xavier:
 
 J'ai continué le développement de la tête de dragon. Cette semaine, j'ai ajouté des yeux et des dents. J'ai aussi fait le sculptage pour lui donner un meilleur look.
+
 ![Tête de dragon sans dents](../medias/dragonTexture.PNG)
+
 ![Tête de dragon avec dents](../medias/DragonDent.PNG)
 
 ## Bons coups et réussites
@@ -43,6 +47,7 @@ J'ai pu finalement sculpter malgré les difficultés. La manière que j'ai utili
 ### Justin:
 
 Après avoir travaillé dans Reaper, j'ai décidé de changer de logiciel en passant vers Audition, je me sens plus à l'aise avec la suite Adobe (montage sonore).
+
 ![Apperçu musique Audition](../medias/audition_justin.png)
 
 ### Mégane:
