@@ -21,7 +21,7 @@ J'ai commencé à créer un décor pour une des animations du jeu sur Blender. M
 
 ### Justin:
 
-Kevin et moi avons continué l'avancement de la musique. J'ai réussi à trouver des solos de guitares potables sans drums comme accompagnements. Kevin va essayer de jouer plus aigu avec sa basse pour faire la guitare principale (puisqu'on a pas de guitare électrique et que ma guitare est acoustique).
+Kevin et moi avons continué l'avancement de la musique. J'ai réussi à trouver des solos de guitare potables sans drums comme accompagnements. Kevin va essayer de jouer plus aigu avec sa basse pour faire la guitare principale (puisqu'on n'a pas de guitare électrique et que ma guitare est acoustique).
 
 ### Xavier:
 
@@ -33,7 +33,7 @@ J'ai continué le développement de la tête de dragon. Cette semaine, j'ai ajou
 
 ### Charles:
 
-Sur Unity, j'ai fait la programmation et l'intégration des manettes, j'ai intégré la musique sur Unity, et j'ai programmé un score et un multiplier pour savoir le score du joueur. J'ai aussi refait la maquette avec des tubes de PVC, et j'ai fait l'intégration entre Unity et TouchDesigner avec OSC.
+Sur Unity, j'ai fait la programmation et l'intégration des manettes, j'ai intégré la musique sur Unity, et j'ai programmé un score et un multiplicateur pour savoir le score du joueur. J'ai aussi refait la maquette avec des tubes de PVC, et j'ai fait l'intégration entre Unity et TouchDesigner avec OSC.
 
 ![Screenshot intégration musique](../medias/charles_sem9_1.png)
 
@@ -43,7 +43,7 @@ Sur Unity, j'ai fait la programmation et l'intégration des manettes, j'ai inté
 
 ### Charles:
 
-L'interaction entre TouchDesigner et Unity marche assez bien, et va être parfaite pour les lumières. Aussi, l'intégration de la musique dans la scène a pris moins de temps que je pensais, ce qui est bien, car nous allons devoir intégrer d'autres bouts de musique pour les autres phases.
+L'interaction entre TouchDesigner et Unity marche assez bien, elle va être parfaite pour les lumières. Aussi, l'intégration de la musique dans la scène a pris moins de temps que je pensais, ce qui est bien, car nous allons devoir intégrer d'autres bouts de musique pour les autres phases.
 
 ## Difficultés et défis
 
@@ -69,7 +69,7 @@ J'ai également eu de la difficulté à travaillé sur le montage à l'école, p
 
 ### Charles:
 
-J'ai eu beaucoup de misère avec l'intégration des manettes avec le nouveau système d'input d'Unity, mais j'ai finalement réussi après beaucoup d'essais erreurs, et de l'aide de mes amis. Le problème était que la manette n'était pas un gamepad mais un joystick, et ça mélangeait Unity.
+J'ai eu beaucoup de misère avec l'intégration des manettes avec le nouveau système d'inputs d'Unity, mais j'ai finalement réussi après beaucoup d'essais erreurs, et de l'aide de mes amis. Le problème était que la manette n'était pas un gamepad, mais un joystick, et ça mélangeait Unity.
 
 ## Tâches effectuées
 
