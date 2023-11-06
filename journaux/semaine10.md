@@ -15,11 +15,19 @@ Rendu avec Eevee :
 Rendu avec Cycles :
 ![Rendu avec Cycles](../medias/rendu_final_cycle.jpg)
 
+### Mégane :
+
+Cette semaine, j'ai passée beaucoup de temps sur le montage vidéo de la capsule promotionnelle. J'ai aussi retravaillé l'audio de la vidéo pour qu'il soit égalisé, et j'ai testé différentes techniques pour enlever les sons de fonds. J'ai aussi appliquer des effets sur l'audio pour enlevé le plus de plosives possible. Lorsque la vidéo était terminée, je l'ai publié sur Facebook. 
+
 ## Bons coups et réussites
 
 ### Évan :
 
 J'ai réussi à mieux optimiser le décor que ce que je pensais. Je pensais finir avec un décor assez lourd, mais en effaçant les bons assets et en replaçant les textures, j'ai pu finir avec décor très léger. Le décor est passé de 3.5 GB à moins de 90 Mb.
+
+### Mégane :
+
+J'ai trouvée une technique facile pour égalisé les sons sur Premiere Pro. J'avais essayé sur Audition et même a l'oreille sur After Effects, mais la technique que j'ai fini par découvrir a vraiment rendu la tâche facile.
 
 ## Difficultés et défis
 
@@ -27,8 +35,15 @@ J'ai réussi à mieux optimiser le décor que ce que je pensais. Je pensais fini
 
 J'ai eu de la difficulté à trouver comment optimiser le décor. Charles a réussi à trouver un des éléments majeurs de la grosse taille du fichier en testant sur Unity.
 
+### Mégane :
+
+J'avais oublié a quel point mon ordinateur était lent lorsque j'utilise des logiciels d'Adobe. Je pense que j'ai perdu beaucoup de temps à cause que mon ordinateur _crash/freeze_ souvent.
+
 ## Tâches effectuées
 
 - Finition du premier décor
 - Optimisation du premier décor
-- Third item
+- Égalisation de l'audio de le vidéo promotionnelle
+- Suppression de plus de plosives possible
+- Montage de la vidéo promotionnelle
+- Publication sur Facebook
