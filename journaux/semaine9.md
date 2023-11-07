@@ -41,7 +41,7 @@ Sur Unity, j'ai fait la programmation et l'intégration des manettes, j'ai inté
 
 ### Kevin:
 
-J'ai enregistrer, à l'aide d'un interface audio, la basse de la première musique en appliquant des changements que j'ai pensé nécessaire à ce que j'avais déjà écris. Ensuite je l'ai intégrer aux percussions que nous avions trouvé.
+J'ai enregistré, à l'aide d'une interface audio, la basse de la première musique en appliquant des changements que j'ai pensé nécessaires à ce que j'avais déjà écrit. Ensuite, je l'ai intégrée aux percussions que nous avions trouvées.
 
 ## Bons coups et réussites
 
@@ -75,9 +75,9 @@ J'ai également eu de la difficulté à travaillé sur le montage à l'école, p
 
 J'ai eu beaucoup de misère avec l'intégration des manettes avec le nouveau système d'inputs d'Unity, mais j'ai finalement réussi après beaucoup d'essais erreurs, et de l'aide de mes amis. Le problème était que la manette n'était pas un gamepad, mais un joystick, et ça mélangeait Unity.
 
-### Kevin: 
+### Kevin:
 
-J'ai eu de la difficulté lors de l'enregistrement de mon instrument, à cause de la pauvre qualité audio de mes écouteurs à travers mon interface audio. Il me faudrait des écouteur adapté à cela. De plus, il est difficile de trouver un remplacement à une guitar électrique dans le projet.
+J'ai eu de la difficulté lors de l'enregistrement de mon instrument, à cause de la pauvre qualité audio de mes écouteurs à travers mon interface audio. Il me faudrait des écouteurs adaptés à cela. De plus, il est difficile de trouver un remplacement à une guitare électrique dans le projet.
 
 ## Tâches effectuées
 
