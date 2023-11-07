@@ -27,7 +27,7 @@ Cette semaine, j'ai complété le montage de la musique en faisant en sorte que 
 
 ### Justin :
 
-Ayant réussi avec Kevin la première musique. Nous nous sommes séparés pour créer une musique de notre bord pour aller plus vite. Kevin va partir avec un style maritime alors que moi ce sera un style _Cyberpunk_ ou western.
+Ayant réussi avec Kevin la première musique. Nous nous sommes séparés pour créer une musique de notre bord pour aller plus vite. Kevin va partir avec un style maritime alors que moi ce sera un style _Cyberpunk_ ou western. On a décidé que la première musique serait en fait une partie de la musique complète (1/3) pour ainsi faire en sorte que les joueurs puissent jouer chacun leur tour assez longtemps. Le joueur 1 jouerait durant la première partie, suivi du joueur 2 et les deux en même temps pour la dernière partie.
 
 ### Évan :
 
