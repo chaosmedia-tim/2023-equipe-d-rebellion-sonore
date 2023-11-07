@@ -39,6 +39,10 @@ Sur Unity, j'ai fait la programmation et l'intégration des manettes, j'ai inté
 
 ![Screenshot intégration score](../medias/charles_sem9_2.png)
 
+### Kevin:
+
+J'ai enregistrer, à l'aide d'un interface audio, la basse de la première musique en appliquant des changements que j'ai pensé nécessaire à ce que j'avais déjà écris. Ensuite je l'ai intégrer aux percussions que nous avions trouvé.
+
 ## Bons coups et réussites
 
 ### Charles:
@@ -71,6 +75,10 @@ J'ai également eu de la difficulté à travaillé sur le montage à l'école, p
 
 J'ai eu beaucoup de misère avec l'intégration des manettes avec le nouveau système d'inputs d'Unity, mais j'ai finalement réussi après beaucoup d'essais erreurs, et de l'aide de mes amis. Le problème était que la manette n'était pas un gamepad, mais un joystick, et ça mélangeait Unity.
 
+### Kevin: 
+
+J'ai eu de la difficulté lors de l'enregistrement de mon instrument, à cause de la pauvre qualité audio de mes écouteurs à travers mon interface audio. Il me faudrait des écouteur adapté à cela. De plus, il est difficile de trouver un remplacement à une guitar électrique dans le projet.
+
 ## Tâches effectuées
 
 - Création de l'animation du logo de Rébellion Sonore pour la capsule promotionnelle
@@ -82,3 +90,4 @@ J'ai eu beaucoup de misère avec l'intégration des manettes avec le nouveau sys
 - Programmation d'un score, gameplay de base, et l'interaction entre TouchDesigner et Unity
 - Intégration des manettes dans Unity
 - Refaite de la maquette scénographique avec PVC
+- Enregistrement de la basse
