@@ -23,6 +23,12 @@ Cette semaine, j'ai passé beaucoup de temps sur le montage vidéo de la capsule
 
 Cette semaine, j'ai complété le montage de la musique en faisant en sorte que tous les éléments marchent ensemble. Aussi j'ai aidé l'équipe en accomplissant des tâches diverses comme créer des visuels pour l'éventuelle foule et compter le nombre de tubes de PVC nécessaire au projet.
 
+### Charles :
+
+Pendant cette semaine, j'ai intégré le décor qu'Évan a fait dans Unity, et j'ai intégré la musique que Kevin et Justin ont fait. J'ai aussi beaucoup optimisé le code pour que les hits marchent mieux avec le InputSystem de Unity.
+
+![Scène Unity avec décor](../medias/charles_sem10.png)
+
 ## Bons coups et réussites
 
 ### Justin :
@@ -37,6 +43,10 @@ J'ai réussi à mieux optimiser le décor que ce que je pensais. Je pensais fini
 
 J'ai trouvé une technique facile pour égaliser les sons sur Premiere Pro. J'avais essayé sur Audition et même a l'oreille sur After Effects, mais la technique que j'ai fini par découvrir a vraiment rendu la tâche facile.
 
+### Charles :
+
+J'ai optimisé la scène Unity en utilisant des prefabs pour les notes et en changeant les scripts pour que j'aie moins de problèmes plus tard dans la production.
+
 ## Difficultés et défis
 
 ### Évan :
@@ -47,6 +57,10 @@ J'ai eu de la difficulté à trouver comment optimiser le décor. Charles a réu
 
 J'avais oublié à quel point mon ordinateur était lent lorsque j'utilise des logiciels d'Adobe. Je pense que j'ai perdu beaucoup de temps, parce que mon ordinateur _crash/freeze_ souvent.
 
+### Charles :
+
+Le InputSystem a prouvé être encore un problème, surtout en lien avec les scripts et la documentation qui n'est pas trop claire, mais j'ai réussi à faire marcher les nouveaux scripts quand même.
+
 ## Tâches effectuées
 
 - Finition du premier décor
@@ -56,3 +70,6 @@ J'avais oublié à quel point mon ordinateur était lent lorsque j'utilise des l
 - Montage de la vidéo promotionnelle
 - Publication sur Facebook
 - Réalisation de la première musique
+- Intégration du décor dans Unity
+- Optimisation de la scène Unity
+- Optimisation des scripts Unity
