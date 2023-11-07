@@ -17,11 +17,11 @@ Rendu avec Cycles :
 
 ### Mégane :
 
-Cette semaine, j'ai passée beaucoup de temps sur le montage vidéo de la capsule promotionnelle. J'ai aussi retravaillé l'audio de la vidéo pour qu'il soit égalisé, et j'ai testé différentes techniques pour enlever les sons de fonds. J'ai aussi appliquer des effets sur l'audio pour enlevé le plus de plosives possible. Lorsque la vidéo était terminée, je l'ai publié sur Facebook. 
+Cette semaine, j'ai passé beaucoup de temps sur le montage vidéo de la capsule promotionnelle. J'ai aussi retravaillé l'audio de la vidéo pour qu'il soit égalisé et j'ai testé différentes techniques pour enlever les sons de fonds. J'ai aussi appliqué des effets sur l'audio pour enlever le plus de plosives possible. Lorsque la vidéo était terminée, je l'ai publié sur Facebook.
 
-### Kevin : 
+### Kevin :
 
-Cette semaine, j'ai complété le montage de la musique en faisant en sorte que tous les éléments marchent ensemble. Aussi j'ai aidé l'équipe en accomplissant des tâches diverses comme créer des visuels pour l'éventuel foule et compter le nombre de tube de PVC nécessaire au projet.
+Cette semaine, j'ai complété le montage de la musique en faisant en sorte que tous les éléments marchent ensemble. Aussi j'ai aidé l'équipe en accomplissant des tâches diverses comme créer des visuels pour l'éventuelle foule et compter le nombre de tubes de PVC nécessaire au projet.
 
 ## Bons coups et réussites
 
@@ -31,7 +31,7 @@ J'ai réussi à mieux optimiser le décor que ce que je pensais. Je pensais fini
 
 ### Mégane :
 
-J'ai trouvée une technique facile pour égalisé les sons sur Premiere Pro. J'avais essayé sur Audition et même a l'oreille sur After Effects, mais la technique que j'ai fini par découvrir a vraiment rendu la tâche facile.
+J'ai trouvé une technique facile pour égaliser les sons sur Premiere Pro. J'avais essayé sur Audition et même a l'oreille sur After Effects, mais la technique que j'ai fini par découvrir a vraiment rendu la tâche facile.
 
 ## Difficultés et défis
 
@@ -41,7 +41,7 @@ J'ai eu de la difficulté à trouver comment optimiser le décor. Charles a réu
 
 ### Mégane :
 
-J'avais oublié a quel point mon ordinateur était lent lorsque j'utilise des logiciels d'Adobe. Je pense que j'ai perdu beaucoup de temps à cause que mon ordinateur _crash/freeze_ souvent.
+J'avais oublié à quel point mon ordinateur était lent lorsque j'utilise des logiciels d'Adobe. Je pense que j'ai perdu beaucoup de temps, parce que mon ordinateur _crash/freeze_ souvent.
 
 ## Tâches effectuées
 
