@@ -29,6 +29,14 @@ Pendant cette semaine, j'ai intégré le décor qu'Évan a fait dans Unity, et j
 
 ![Scène Unity avec décor](../medias/charles_sem10.png)
 
+### Xavier:
+
+Cette semaine, j'ai completer le personnage dragon. J'ai fusionner les yeux, les dents et la tete. De plus, j'ai rig le personnage pour les futures animations. j'ai importer la guitar.
+![dragon completer](../medias/DragonComplet.JPG)
+![ajout de la guitar](../medias/Dragon&guitar.JPG)
+![Dragon avec le skelette](../medias/DragonRigged.JPG)
+
+
 ## Bons coups et réussites
 
 ### Justin :
@@ -47,6 +55,9 @@ J'ai trouvé une technique facile pour égaliser les sons sur Premiere Pro. J'av
 
 J'ai optimisé la scène Unity en utilisant des prefabs pour les notes et en changeant les scripts pour que j'aie moins de problèmes plus tard dans la production.
 
+### Xavier :
+J'ai apppris comment optimiser le nombre de vertex.
+
 ## Difficultés et défis
 
 ### Évan :
@@ -61,6 +72,10 @@ J'avais oublié à quel point mon ordinateur était lent lorsque j'utilise des l
 
 Le InputSystem a prouvé être encore un problème, surtout en lien avec les scripts et la documentation qui n'est pas trop claire, mais j'ai réussi à faire marcher les nouveaux scripts quand même.
 
+### Xavier :
+Beacoup trop de veertx!!!! J'avais 5 million d'arrête. C'était beaucoup trop lourd pour fusionner le skellette et le personnage. j'ai perdu beaucoup de temps a faire tourner mon ordi pour rien.
+Charles m'a montrer une technique pour diminuer énomement le nombre de vertex et d'arrête. Cela a affecter la qualité mais j'ai pu rig le personage. je suis tomber a 28000 vertex.
+
 ## Tâches effectuées
 
 - Finition du premier décor
@@ -73,3 +88,6 @@ Le InputSystem a prouvé être encore un problème, surtout en lien avec les scr
 - Intégration du décor dans Unity
 - Optimisation de la scène Unity
 - Optimisation des scripts Unity
+- finalisation brute du personnage
+- personnage rigged
+- import de guitar avec le personnage
