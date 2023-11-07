@@ -19,6 +19,10 @@ Rendu avec Cycles :
 
 Cette semaine, j'ai passée beaucoup de temps sur le montage vidéo de la capsule promotionnelle. J'ai aussi retravaillé l'audio de la vidéo pour qu'il soit égalisé, et j'ai testé différentes techniques pour enlever les sons de fonds. J'ai aussi appliquer des effets sur l'audio pour enlevé le plus de plosives possible. Lorsque la vidéo était terminée, je l'ai publié sur Facebook. 
 
+### Kevin : 
+
+Cette semaine, j'ai complété le montage de la musique en faisant en sorte que tous les éléments marchent ensemble. Aussi j'ai aidé l'équipe en accomplissant des tâches diverses comme créer des visuels pour l'éventuel foule et compter le nombre de tube de PVC nécessaire au projet.
+
 ## Bons coups et réussites
 
 ### Évan :
@@ -47,3 +51,4 @@ J'avais oublié a quel point mon ordinateur était lent lorsque j'utilise des lo
 - Suppression de plus de plosives possible
 - Montage de la vidéo promotionnelle
 - Publication sur Facebook
+- Réalisation de la première musique
