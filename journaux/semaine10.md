@@ -17,13 +17,17 @@ Rendu avec Cycles :
 
 ### Mégane :
 
-Cette semaine, j'ai passé beaucoup de temps sur le montage vidéo de la capsule promotionnelle. J'ai aussi retravaillé l'audio de la vidéo pour qu'il soit égalisé et j'ai testé différentes techniques pour enlever les sons de fonds. J'ai aussi appliqué des effets sur l'audio pour enlever le plus de plosives possible. Lorsque la vidéo était terminée, je l'ai publié sur Facebook.
+Cette semaine, j'ai passé beaucoup de temps sur le montage vidéo de la capsule promotionnelle. J'ai aussi retravaillé l'audio de la vidéo pour qu'il soit égalisé et j'ai testé différentes techniques pour enlever les sons de fonds. J'ai aussi appliqué des effets sur l'audio pour enlever le plus de plosives possible. Lorsque la vidéo était terminée, je l'ai publiée sur Facebook.
 
 ### Kevin :
 
 Cette semaine, j'ai complété le montage de la musique en faisant en sorte que tous les éléments marchent ensemble. Aussi j'ai aidé l'équipe en accomplissant des tâches diverses comme créer des visuels pour l'éventuelle foule et compter le nombre de tubes de PVC nécessaire au projet.
 
 ## Bons coups et réussites
+
+### Justin :
+
+Ayant réussi avec Kevin la première musique. Nous nous sommes séparés pour créer une musique de notre bord pour aller plus vite. Kevin va partir avec un style maritime alors que moi ce sera un style _Cyberpunk_ ou western.
 
 ### Évan :
 
