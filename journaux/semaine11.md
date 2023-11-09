@@ -14,7 +14,9 @@ Le moodboard du décor 2 :
 
 Voici des exemples d'assets qu seront utilisés dans le décor :
 ![Mecha](../medias/mecha_asset.png)
-![Pluie](../medias/bateau.png)
+![Bateau](../medias/bateau.png)
+![Pluie](../medias/pluie.png)
+
 
 ## Bons coups et réussites
 
