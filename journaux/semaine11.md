@@ -7,16 +7,15 @@ layout: post
 
 ### Évan :
 
-Cette semaine, je me suis focusé sur la recherche d'assets pour le deuxième décor du jeu qui aura un thème marithime. Inspiré des films et jeux de pirates aisni que la série de film "Pacific Rim", le décor serait composé d'une mer déchaînée par une tempête ainsi que de débris de bateaux et mechas. J'essaye aussi de modifier les assets pour les faire convenir au projet.
+Cette semaine, je me suis focalisé sur la recherche d'assets pour le deuxième décor du jeu qui aura un thème maritime. Inspiré des films et jeux de pirates ainsi que la série de films _Pacific Rim_, le décor sera composé d'une mer déchaînée par une tempête ainsi que des débris de bateaux et de méchas. J'essaye aussi de modifier les assets pour les faire convenir au projet.
 
 Le moodboard du décor 2 :
 ![Moodboard du décor 2](../medias/moodboard.png)
 
-Voici des exemples d'assets qu seront utilisés dans le décor :
+Voici des exemples d'assets qui seront utilisés dans le décor :
 ![Mecha](../medias/mecha_asset.png)
 ![Bateau](../medias/bateau.png)
 ![Pluie](../medias/pluie.png)
-
 
 ## Bons coups et réussites
 
@@ -24,7 +23,7 @@ Voici des exemples d'assets qu seront utilisés dans le décor :
 
 ### Évan :
 
-Ma plus grande difficultés cette semiane est de trouver des assets pour Unity qui seront utilisés dans le décor 2. La majorité du décor va bouger, donc j'ai de besoin d'assets spécialement conçu pour Unity, mais la grande majorité de ces assets coutent de l'argent, et pas qu'un peu. Les assets gratuit que je trouve sont de basses qualité et doivent être modifiés pour le projet, ce qui prend du temps et qui n'est pas super facile.
+Ma plus grande difficulté cette semaine est de trouver des assets pour Unity qui seront utilisés dans le décor 2. La majorité du décor va bouger, donc j'ai besoin d'assets spécialement conçus pour Unity, mais la grande majorité de ces assets coutent de l'argent, et pas qu'un peu. Les assets gratuits que je trouve sont de basse qualité et doivent être modifiés pour le projet, ce qui prend du temps et qui n'est pas super facile.
 
 ## Tâches effectuées
 

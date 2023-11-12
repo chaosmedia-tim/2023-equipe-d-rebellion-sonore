@@ -25,17 +25,16 @@ Cette semaine, j'ai complété le montage de la musique en faisant en sorte que 
 
 ### Charles :
 
-Pendant cette semaine, j'ai intégré le décor qu'Évan a fait dans Unity, et j'ai intégré la musique que Kevin et Justin ont fait. J'ai aussi beaucoup optimisé le code pour que les hits marchent mieux avec le InputSystem de Unity.
+Pendant cette semaine, j'ai intégré le décor qu'Évan a fait dans Unity, et j'ai intégré la musique que Kevin et Justin ont faite. J'ai aussi beaucoup optimisé le code pour que les collisions marchent mieux avec l'InputSystem d'Unity.
 
 ![Scène Unity avec décor](../medias/charles_sem10.png)
 
 ### Xavier:
 
-Cette semaine, j'ai completer le personnage dragon. J'ai fusionner les yeux, les dents et la tete. De plus, j'ai rig le personnage pour les futures animations. j'ai importer la guitar.
+Cette semaine, j'ai complété le personnage dragon. J'ai fusionné les yeux, les dents et la tête. De plus, j'ai mis une armature sur le personnage pour les futures animations. J'ai importé la guitare.
 ![dragon completer](../medias/DragonComplet.JPG)
 ![ajout de la guitar](../medias/Dragon&guitar.JPG)
 ![Dragon avec le skelette](../medias/DragonRigged.JPG)
-
 
 ## Bons coups et réussites
 
@@ -56,11 +55,12 @@ J'ai trouvé une technique facile pour égaliser les sons sur Premiere Pro. J'av
 J'ai optimisé la scène Unity en utilisant des prefabs pour les notes et en changeant les scripts pour que j'aie moins de problèmes plus tard dans la production.
 
 ### Xavier :
-J'ai apppris comment optimiser le nombre de vertex.
+
+J'ai apppri comment optimiser le nombre de vertice.
 
 ### Kevin :
 
-J'ai appronfondie ma connaissance avec les filtres audio d'Audition.
+J'ai appronfondi mes connaissances avec les filtres audio d'Audition.
 
 ## Difficultés et défis
 
@@ -77,25 +77,24 @@ J'avais oublié à quel point mon ordinateur était lent lorsque j'utilise des l
 Le InputSystem a prouvé être encore un problème, surtout en lien avec les scripts et la documentation qui n'est pas trop claire, mais j'ai réussi à faire marcher les nouveaux scripts quand même.
 
 ### Xavier :
-Beacoup trop de veertx!!!! J'avais 5 million d'arrête. C'était beaucoup trop lourd pour fusionner le skellette et le personnage. j'ai perdu beaucoup de temps a faire tourner mon ordi pour rien.
-Charles m'a montrer une technique pour diminuer énomement le nombre de vertex et d'arrête. Cela a affecter la qualité mais j'ai pu rig le personage. je suis tomber a 28000 vertex.
+
+Beaucoup trop de vertices !!!! J'avais 5 millions d'arêtes. C'était beaucoup trop lourd pour fusionner le squelette et le personnage. J'ai perdu beaucoup de temps à faire fonctionner mon ordi en regardant le modèle pour rien.
+Charles m'a montré une technique pour diminuer énormément le nombre de vertices et d'arêtes. Cela a affecté la qualité, mais j'ai pu mettre l'armature sur le personnage. Je suis tombé à 28000 vertices.
 
 ### Kevin :
 
-Je trouve que je n'arrive pas à bien faire fonctionner les clips audio qu'on a assemblé pour la première musique. Je pense qu'il faut la retravailler.
+Je trouve que je n'arrive pas à bien faire fonctionner les clips audio qu'on a assemblés pour la première musique. Je pense qu'il faut retravailler la première musique.
 
 ## Tâches effectuées
 
-- Finition du premier décor
-- Optimisation du premier décor
+- Finition et optimisation du premier décor
 - Égalisation de l'audio de le vidéo promotionnelle
 - Suppression de plus de plosives possible
 - Montage de la vidéo promotionnelle
-- Publication sur Facebook
+- Publications sur Facebook
 - Réalisation de la première musique
 - Intégration du décor dans Unity
-- Optimisation de la scène Unity
-- Optimisation des scripts Unity
-- finalisation brute du personnage
-- personnage rigged
-- import de guitar avec le personnage
+- Optimisation de la scène et des scripts Unity
+- Finalisation brute du personnage
+- Personnage avec son armature
+- Import de la guitare avec le personnage
