@@ -33,14 +33,20 @@ Pendant cette semaine, j'ai intégré le décor qu'Évan a fait dans Unity, et j
 
 Cette semaine, j'ai complété le personnage dragon. J'ai fusionné les yeux, les dents et la tête. De plus, j'ai mis une armature sur le personnage pour les futures animations. J'ai importé la guitare.
 ![dragon completer](../medias/DragonComplet.JPG)
+
 ![ajout de la guitar](../medias/Dragon&guitar.JPG)
+
 ![Dragon avec le skelette](../medias/DragonRigged.JPG)
+
+### Justin :
+
+Kevin et moi avons décidé que la première musique serait en fait une partie de la musique complète (1/3) pour ainsi faire en sorte que les joueurs puissent jouer chacun leur tour assez longtemps. Le joueur 1 jouerait durant la première partie, suivi du joueur 2 et les deux en même temps pour la dernière partie.
 
 ## Bons coups et réussites
 
 ### Justin :
 
-Ayant réussi avec Kevin la première musique. Nous nous sommes séparés pour créer une musique de notre bord pour aller plus vite. Kevin va partir avec un style maritime alors que moi ce sera un style _Cyberpunk_ ou western. On a décidé que la première musique serait en fait une partie de la musique complète (1/3) pour ainsi faire en sorte que les joueurs puissent jouer chacun leur tour assez longtemps. Le joueur 1 jouerait durant la première partie, suivi du joueur 2 et les deux en même temps pour la dernière partie.
+Ayant réussi avec Kevin la première musique. Nous nous sommes séparés pour créer une musique de notre bord pour aller plus vite. Kevin va partir avec un style maritime alors que moi ce sera un style _Cyberpunk_.
 
 ### Évan :
 
@@ -98,3 +104,4 @@ Je trouve que je n'arrive pas à bien faire fonctionner les clips audio qu'on a 
 - Finalisation brute du personnage
 - Personnage avec son armature
 - Import de la guitare avec le personnage
+- Début des musiques #2 et #3

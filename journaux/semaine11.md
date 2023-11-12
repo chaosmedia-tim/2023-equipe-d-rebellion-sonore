@@ -14,8 +14,16 @@ Le moodboard du décor 2 :
 
 Voici des exemples d'assets qui seront utilisés dans le décor :
 ![Mecha](../medias/mecha_asset.png)
+
 ![Bateau](../medias/bateau.png)
+
 ![Pluie](../medias/pluie.png)
+
+### Justin :
+
+De mon côté, j'ai bien avancé la musique #3. Il me reste à harmoniser le tout et peut-être ajouter des voix (chorale).
+
+![Apperçu musique #3](../medias/audition_musique3.PNG)
 
 ## Bons coups et réussites
 
@@ -29,4 +37,4 @@ Ma plus grande difficulté cette semaine est de trouver des assets pour Unity qu
 
 - Recherche d'assets pour le décor 2
 - Modifier et optimiser les assets du décor 2
-- Third item
+- Développement des musiques #2 et #3
