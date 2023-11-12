@@ -58,6 +58,10 @@ J'ai optimisé la scène Unity en utilisant des prefabs pour les notes et en cha
 ### Xavier :
 J'ai apppris comment optimiser le nombre de vertex.
 
+### Kevin :
+
+J'ai appronfondie ma connaissance avec les filtres audio d'Audition.
+
 ## Difficultés et défis
 
 ### Évan :
@@ -75,6 +79,10 @@ Le InputSystem a prouvé être encore un problème, surtout en lien avec les scr
 ### Xavier :
 Beacoup trop de veertx!!!! J'avais 5 million d'arrête. C'était beaucoup trop lourd pour fusionner le skellette et le personnage. j'ai perdu beaucoup de temps a faire tourner mon ordi pour rien.
 Charles m'a montrer une technique pour diminuer énomement le nombre de vertex et d'arrête. Cela a affecter la qualité mais j'ai pu rig le personage. je suis tomber a 28000 vertex.
+
+### Kevin :
+
+Je trouve que je n'arrive pas à bien faire fonctionner les clips audio qu'on a assemblé pour la première musique. Je pense qu'il faut la retravailler.
 
 ## Tâches effectuées
 
