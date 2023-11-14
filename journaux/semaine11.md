@@ -5,6 +5,13 @@ layout: post
 
 ## Résumé
 
+### Mégane :
+
+Cette semaine j'ai fait des recherches d'idées pour l'affiche imprimée, fait des tests sur Blender pour prendre des images du personnage pour l'affiche imprimée, fait des captures de photos et vidéos pendant les cours pour du contenu pour la capsule vidéo, et fait des publications sur Instagram et Facebook.
+
+Test sur Blender:
+![Test du perso sur blender](../medias/dragon_behind.png)
+
 ### Évan :
 
 Cette semaine, je me suis focalisé sur la recherche d'assets pour le deuxième décor du jeu qui aura un thème maritime. Inspiré des films et jeux de pirates ainsi que la série de films _Pacific Rim_, le décor sera composé d'une mer déchaînée par une tempête ainsi que des débris de bateaux et de méchas. J'essaye aussi de modifier les assets pour les faire convenir au projet.
@@ -38,3 +45,6 @@ Ma plus grande difficulté cette semaine est de trouver des assets pour Unity qu
 - Recherche d'assets pour le décor 2
 - Modifier et optimiser les assets du décor 2
 - Développement des musiques #2 et #3
+- Recherche d'idée pour l'affiche imprimée
+- Capture de contenu pour la capsule vidéo
+- Capture et publication de contenu sur Facebook et Instagram
