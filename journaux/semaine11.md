@@ -47,7 +47,7 @@ J'ai avancer les shaders du dragon. j'ai commencer a faire les decoration telle 
 Ma plus grande difficulté cette semaine est de trouver des assets pour Unity qui seront utilisés dans le décor 2. La majorité du décor va bouger, donc j'ai besoin d'assets spécialement conçus pour Unity, mais la grande majorité de ces assets coutent de l'argent, et pas qu'un peu. Les assets gratuits que je trouve sont de basse qualité et doivent être modifiés pour le projet, ce qui prend du temps et qui n'est pas super facile.
 
 ### Xavier:
-Ma difficulté cette semaine fut avec l'equipement. j'ai eu beaucoup de probleme avec les ordi de l'école comme chez moi. j'ai aussi de la misere avec les reseaux internet. étrangement!
+Ma difficulté cette semaine fut avec l'equipement. j'ai eu beaucoup de probleme avec les ordi de l'école comme chez moi. j'ai aussi de la misere avec internet. étrangement!
 
 ## Tâches effectuées
 
