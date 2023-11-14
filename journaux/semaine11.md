@@ -32,6 +32,12 @@ De mon côté, j'ai bien avancé la musique #3. Il me reste à harmoniser le tou
 
 ![Apperçu musique #3](../medias/audition_musique3.PNG)
 
+### Xavier:
+
+J'ai avancer les shaders du dragon. j'ai commencer a faire les decoration telle que des anneaux cheveux. pour la suite je compte integrer un jacket.
+
+![Dragon avec sa chevelure](../medias/DragonCheveux.JPG)
+
 ## Bons coups et réussites
 
 ## Difficultés et défis
@@ -39,6 +45,9 @@ De mon côté, j'ai bien avancé la musique #3. Il me reste à harmoniser le tou
 ### Évan :
 
 Ma plus grande difficulté cette semaine est de trouver des assets pour Unity qui seront utilisés dans le décor 2. La majorité du décor va bouger, donc j'ai besoin d'assets spécialement conçus pour Unity, mais la grande majorité de ces assets coutent de l'argent, et pas qu'un peu. Les assets gratuits que je trouve sont de basse qualité et doivent être modifiés pour le projet, ce qui prend du temps et qui n'est pas super facile.
+
+### Xavier:
+Ma difficulté cette semaine fut avec l'equipement. j'ai eu beaucoup de probleme avec les ordi de l'école comme chez moi. j'ai aussi de la misere avec les reseaux internet. étrangement!
 
 ## Tâches effectuées
 
@@ -48,3 +57,5 @@ Ma plus grande difficulté cette semaine est de trouver des assets pour Unity qu
 - Recherche d'idée pour l'affiche imprimée
 - Capture de contenu pour la capsule vidéo
 - Capture et publication de contenu sur Facebook et Instagram
+- fin texture dragon
+- debut accesoir dragon
