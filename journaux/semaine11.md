@@ -38,6 +38,10 @@ J'ai avancer les shaders du dragon. j'ai commencer a faire les decoration telle 
 
 ![Dragon avec sa chevelure](../medias/DragonCheveux.JPG)
 
+### Kevin:
+
+Durant la semaine 11, j'ai composer dans son entièreté la deuxième musique de l'expérience. je suis aller chercher en premier les samples de guitares et, ensuite, les percussions. Une fois la guitare et les percussion assembler, j'ai finalisé la composition avec de la basse que j'ai enregistrer par moi même. Aussi, j'ai refait une musique pour remplacer la première dont je n'était pas satisfait. J'ai suivi le même processus que pour la musique 2, à l'exception que j'ai composé les percussions avec le drum rack de Ableton.
+
 ## Bons coups et réussites
 
 ## Difficultés et défis
