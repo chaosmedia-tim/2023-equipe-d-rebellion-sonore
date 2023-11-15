@@ -62,11 +62,11 @@ J'ai optimisé la scène Unity en utilisant des prefabs pour les notes et en cha
 
 ### Xavier :
 
-J'ai apppri comment optimiser le nombre de vertice.
+J'ai apppris comment optimiser le nombre de vertices.
 
 ### Kevin :
 
-J'ai appronfondi mes connaissances avec les filtres audio d'Audition.
+J'ai approfondi mes connaissances avec les filtres audio d'Audition.
 
 ## Difficultés et défis
 

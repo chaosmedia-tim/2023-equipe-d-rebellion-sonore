@@ -34,17 +34,17 @@ De mon côté, j'ai bien avancé la musique #3. Il me reste à harmoniser le tou
 
 ### Xavier:
 
-J'ai avancer les shaders du dragon. j'ai commencer a faire les decoration telle que des anneaux cheveux. pour la suite je compte integrer un jacket.
+J'ai avancé les shaders du dragon. J'ai commencé à faire les décorations telles que des anneaux cheveux. Pour la suite je compte intégrer une veste.
 
 ![Dragon avec sa chevelure](../medias/DragonCheveux.JPG)
 
 ### Kevin:
 
-Durant la semaine 11, j'ai composer dans son entièreté la deuxième musique de l'expérience. je suis aller chercher en premier les samples de guitares et, ensuite, les percussions. Une fois la guitare et les percussion assembler, j'ai finalisé la composition avec de la basse que j'ai enregistrer par moi même. Aussi, j'ai refait une musique pour remplacer la première dont je n'était pas satisfait. J'ai suivi le même processus que pour la musique 2, à l'exception que j'ai composé les percussions avec le drum rack de Ableton.
+Durant la semaine 11, j'ai composé dans son entièreté la deuxième musique de l'expérience. Je suis aller cherché en premier les samples de guitares et ensuite les percussions. Une fois la guitare et les percussions assemblées, j'ai finalisé la composition avec de la basse que j'ai enregistrer par moi-même. Aussi, j'ai refait une musique pour remplacer la première dont je n'étais pas satisfait. J'ai suivi le même processus que pour la musique 2, à l'exception que j'ai composé les percussions avec le drum rack d'Ableton.
 
 ### Charles:
 
-Cette semaine j'ai continué la programmation Unity du jeu, j'ai optimisé le code pour 2 joueurs, j'ai rajouté le score pour le score du deuxième joueur, j'ai programmé la manette du joueur 2, j'ai ajouté l'intégration ou il faut strummer la guitare pour bien avoir la note, j'ai programmé le switch du joueur 1 au joueur 2 dans la musique et le gameplay, j'ai aussi fait la programmation de la foule pour représenter le score aux joueurs. À travers tout ça, j'ai aussi beaucoup avancé l'intégration des lumières dans TouchDesigner et j'ai joué avec plusieurs lumières DMX pour savoir comment les "daisy-chain". J'ai aussi optimisé les LEDs pour que les notes qui apparaissent soient plus claires au joueur.
+Cette semaine j'ai continué la programmation Unity du jeu et j'ai optimisé le code pour 2 joueurs. Aussi, j'ai rajouté le score pour le score du deuxième joueur, j'ai programmé la manette du joueur 2 et j'ai ajouté l'intégration ou il faut strummer la guitare pour bien avoir la note. De plus, j'ai programmé le switch du joueur 1 au joueur 2 dans la musique et le gameplay et j'ai fait la programmation de la foule pour représenter le score aux joueurs. À travers tout ça, j'ai aussi beaucoup avancé l'intégration des lumières dans TouchDesigner et j'ai joué avec plusieurs lumières DMX pour savoir comment les _daisy-chain_. J'ai aussi optimisé les LED pour que les notes qui apparaissent soient plus claires au joueur.
 
 ![Screenshot de TouchDesigner](../medias/charles_sem11_td.png)
 ![Screenshot de Unity](../medias/charles_sem11_unity.png)
@@ -53,7 +53,7 @@ Cette semaine j'ai continué la programmation Unity du jeu, j'ai optimisé le co
 
 ### Charles:
 
-La programmation du deuxième joueur a très bien allé, pas beaucoup de problèmes dans le développement. La même chose pour les lumières DMX, une fois qu'on sait comment ça marche, c'est assez simple.
+La programmation du deuxième joueur s'est bien passée, pas beaucoup de problèmes dans le développement. La même chose pour les lumières DMX, une fois qu'on sait comment ça marche, c'est assez simple.
 
 ## Difficultés et défis
 
@@ -67,7 +67,7 @@ Ma difficulté cette semaine fut avec l'équipement. J'ai eu beaucoup de problè
 
 ### Charles:
 
-Au début avec les lumières DMX, j'étais un peu confus sur les channels et les addresses, mais je crois que j'ai compris, et depuis ça marche beaucoup mieux.
+Au début avec les lumières DMX, j'étais un peu confus sur les channels et les adresses, mais je crois que j'ai compris, et depuis ça marche beaucoup mieux.
 
 ## Tâches effectuées
 
@@ -75,12 +75,12 @@ Au début avec les lumières DMX, j'étais un peu confus sur les channels et les
 - Modifier et optimiser les assets du décor 2
 - Développement des musiques #2 et #3
 - Recherche d'idée pour l'affiche imprimée
-- Capture de contenu pour la capsule vidéo
-- Capture et publication de contenu sur Facebook et Instagram
-- fin texture dragon
-- debut accesoir dragon
+- Captures de contenu pour la capsule vidéo
+- Captures et publications de contenu sur Facebook et Instagram
+- Fin des textures pour le dragon
+- Début des accessoires pour le dragon
 - Programmation des visuels score/foule sur Unity
 - Programmation du joueur 2 (manette, score, gameplay/musique)
 - Programmation du strum de la guitare (manettes)
-- Optimisation des notes sur les LEDs
+- Optimisation des notes sur les LED
 - Commencement de la programmation des effets de lumière sur TouchDesigner
