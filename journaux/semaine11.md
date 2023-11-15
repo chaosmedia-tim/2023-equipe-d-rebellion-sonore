@@ -62,11 +62,12 @@ La programmation du deuxième joueur a très bien allé, pas beaucoup de problè
 Ma plus grande difficulté cette semaine est de trouver des assets pour Unity qui seront utilisés dans le décor 2. La majorité du décor va bouger, donc j'ai besoin d'assets spécialement conçus pour Unity, mais la grande majorité de ces assets coutent de l'argent, et pas qu'un peu. Les assets gratuits que je trouve sont de basse qualité et doivent être modifiés pour le projet, ce qui prend du temps et qui n'est pas super facile.
 
 ### Xavier:
-Ma difficulté cette semaine fut avec l'equipement. j'ai eu beaucoup de probleme avec les ordi de l'école comme chez moi. j'ai aussi de la misere avec internet. étrangement!
+
+Ma difficulté cette semaine fut avec l'équipement. J'ai eu beaucoup de problèmes avec les ordis de l'école comme chez moi. J'ai aussi de la misère avec internet.
 
 ### Charles:
 
-Au début avec les lumières DMX j'étais un peu confus sur les channels et les addresses, mais je crois que j'ai compris, et depuis ça marche beaucoup mieux.
+Au début avec les lumières DMX, j'étais un peu confus sur les channels et les addresses, mais je crois que j'ai compris, et depuis ça marche beaucoup mieux.
 
 ## Tâches effectuées
 

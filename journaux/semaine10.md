@@ -89,7 +89,7 @@ Charles m'a montré une technique pour diminuer énormément le nombre de vertic
 
 ### Kevin :
 
-Je trouve que je n'arrive pas à bien faire fonctionner les clips audio qu'on a assemblés pour la première musique. Je pense qu'il faut retravailler la première musique.
+Je trouve que je n'arrive pas à bien faire fonctionner les clips audio qu'on a assemblés pour la première musique. Je pense qu'il faut qu'on retravaille, Justin et moi, la première musique.
 
 ## Tâches effectuées
 
