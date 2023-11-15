@@ -42,7 +42,18 @@ J'ai avancer les shaders du dragon. j'ai commencer a faire les decoration telle 
 
 Durant la semaine 11, j'ai composer dans son entièreté la deuxième musique de l'expérience. je suis aller chercher en premier les samples de guitares et, ensuite, les percussions. Une fois la guitare et les percussion assembler, j'ai finalisé la composition avec de la basse que j'ai enregistrer par moi même. Aussi, j'ai refait une musique pour remplacer la première dont je n'était pas satisfait. J'ai suivi le même processus que pour la musique 2, à l'exception que j'ai composé les percussions avec le drum rack de Ableton.
 
+### Charles:
+
+Cette semaine j'ai continué la programmation Unity du jeu, j'ai optimisé le code pour 2 joueurs, j'ai rajouté le score pour le score du deuxième joueur, j'ai programmé la manette du joueur 2, j'ai ajouté l'intégration ou il faut strummer la guitare pour bien avoir la note, j'ai programmé le switch du joueur 1 au joueur 2 dans la musique et le gameplay, j'ai aussi fait la programmation de la foule pour représenter le score aux joueurs. À travers tout ça, j'ai aussi beaucoup avancé l'intégration des lumières dans TouchDesigner et j'ai joué avec plusieurs lumières DMX pour savoir comment les "daisy-chain". J'ai aussi optimisé les LEDs pour que les notes qui apparaissent soient plus claires au joueur.
+
+![Screenshot de TouchDesigner](../medias/charles_sem11_td.png)
+![Screenshot de Unity](../medias/charles_sem11_unity.png)
+
 ## Bons coups et réussites
+
+### Charles:
+
+La programmation du deuxième joueur a très bien allé, pas beaucoup de problèmes dans le développement. La même chose pour les lumières DMX, une fois qu'on sait comment ça marche, c'est assez simple.
 
 ## Difficultés et défis
 
@@ -52,6 +63,10 @@ Ma plus grande difficulté cette semaine est de trouver des assets pour Unity qu
 
 ### Xavier:
 Ma difficulté cette semaine fut avec l'equipement. j'ai eu beaucoup de probleme avec les ordi de l'école comme chez moi. j'ai aussi de la misere avec internet. étrangement!
+
+### Charles:
+
+Au début avec les lumières DMX j'étais un peu confus sur les channels et les addresses, mais je crois que j'ai compris, et depuis ça marche beaucoup mieux.
 
 ## Tâches effectuées
 
@@ -63,3 +78,8 @@ Ma difficulté cette semaine fut avec l'equipement. j'ai eu beaucoup de probleme
 - Capture et publication de contenu sur Facebook et Instagram
 - fin texture dragon
 - debut accesoir dragon
+- Programmation des visuels score/foule sur Unity
+- Programmation du joueur 2 (manette, score, gameplay/musique)
+- Programmation du strum de la guitare (manettes)
+- Optimisation des notes sur les LEDs
+- Commencement de la programmation des effets de lumière sur TouchDesigner
