@@ -62,7 +62,7 @@ J'ai optimisé la scène Unity en utilisant des prefabs pour les notes et en cha
 
 ### Xavier :
 
-J'ai apppris comment optimiser le nombre de vertices.
+J'ai appris comment optimiser le nombre de vertices.
 
 ### Kevin :
 

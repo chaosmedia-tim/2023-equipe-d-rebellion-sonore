@@ -57,8 +57,7 @@ J'ai eu un peu de difficulté avec le décor pour trouver le bon éclairage et l
 
 ### Xavier :
 
-La manière que j'ai modelé la tête a fait que je ne pouvais pas sculpter dedans. La tête ne pouvait pas avoir de vertice sur les côtés. Après de longues recherches, j'ai trouvé une manière manuelle et plus efficace.
-J'ai pu finalement sculpter malgré les difficultés. La manière que j'ai utilisée est le découpage biseau.
+La manière que j'ai modelé la tête a fait que je ne pouvais pas sculpter dedans. La tête ne pouvait pas avoir de vertices sur les côtés. Après de longues recherches, j'ai trouvé une manière manuelle et plus efficace. J'ai pu finalement sculpter malgré les difficultés. La manière que j'ai utilisée est le découpage biseau.
 
 ### Justin :
 

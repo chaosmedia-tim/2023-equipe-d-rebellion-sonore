@@ -7,7 +7,7 @@ layout: post
 
 ### Mégane :
 
-Cette semaine j'ai fait des recherches d'idées pour l'affiche imprimée, fait des tests sur Blender pour prendre des images du personnage pour l'affiche imprimée, fait des captures de photos et vidéos pendant les cours pour du contenu pour la capsule vidéo, et fait des publications sur Instagram et Facebook.
+Cette semaine, j'ai fait des recherches d'idées pour l'affiche imprimée, fait des tests sur Blender pour prendre des images du personnage pour l'affiche imprimée, fait des captures de photos et vidéos pendant les cours pour du contenu pour la capsule vidéo, et fait des publications sur Instagram et Facebook.
 
 Test sur Blender :
 ![Test du perso sur blender](../medias/dragon_behind.png)
@@ -40,7 +40,7 @@ J'ai avancé les shaders du dragon. J'ai commencé à faire les décorations tel
 
 ### Kevin:
 
-Durant la semaine 11, j'ai composé dans son entièreté la deuxième musique de l'expérience. Je suis allé chercher en premier les samples de guitares et ensuite les percussions. Une fois la guitare et les percussions assemblées, j'ai finalisé la composition avec de la basse que j'ai enregistrée par moi-même. Aussi, j'ai refait, avec Justin, la première musique dont nous n'étions pas satisfaits. Nous avons suivi le même processus que pour la musique 2, à l'exception que j'ai composé les percussions avec le drum rack d'Ableton.
+Durant la semaine 11, j'ai composé dans son entièreté la deuxième musique de l'expérience. Je suis allé chercher en premier les samples de guitares et ensuite les percussions. Une fois la guitare et les percussions assemblées, j'ai finalisé la composition avec de la basse que j'ai enregistrée par moi-même. Aussi, j'ai refait avec Justin la première musique dont nous n'étions pas satisfaits. Nous avons suivi le même processus que pour la musique 2, à l'exception que j'ai composé les percussions avec le drum rack d'Ableton.
 
 ### Charles:
 
