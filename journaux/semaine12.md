@@ -9,6 +9,15 @@ layout: post
 
 J'ai fait quelques tests de montage pour l'affiche imprimée pour voir comment je pouvais intégrer le dragon dans le montage. Au début, je voulais utiliser une photo d'une scène pour le fond, mais mes collègues et moi avons réalisé que ça ne mettait pas vraiment le dragon en valeur. Alors, pour mon prochain test, je vais intégrer le dragon dans une scène 3D sur Blender et prendre une photo pour l'affiche.
 
+![Affiche](../medias/Poster_Rebellion_Sonore_v6.png)
+
+En attendant l'accord du professeur pour savoir si notre affiche est prête a faire imprimé, je me suis occupée des bannières.
+
+![Banniere 1](../medias/Banniere_Rebellion_Sonore_1.jpg)
+![Banniere 2](../medias/Banniere_Rebellion_Sonore_2.jpg)
+
+Puis, j'ai commencée a planifier la capsule vidéo.
+
 ### Évan :
 
 J'ai terminé la recherche des assets pour le décor 2 et le décor 3. J'ai fait le montage des deux derniers décors. Le décor 2 n'est pas fini, car il faut que je règle des problèmes avec certains assets et je dois bouger les objets dans la scène. La caméra aussi est à voir.
@@ -48,3 +57,6 @@ J'ai beaucoup de difficulté avec les textures du décor 2. La grande majorité 
 - Tests d'intégration du dragon dans l'affiche imprimée
 - Arrangement des assets des décor 2 et 3
 - Montage du décor 2 sur Unity
+- Finission des bannières 1 et 2
+- Finission de l'affiche imprimée (en attente de réponse du professeur)
+- Planification de la capsule vidéo
