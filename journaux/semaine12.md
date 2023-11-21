@@ -12,10 +12,16 @@ J'ai fait quelques tests de montage pour l'affiche imprimée pour voir comment j
 ### Évan :
 
 J'ai terminé la recherche des assets pour le décor 2 et le décor 3. J'ai fait le montage des deux derniers décors. Le décor 2 n'est pas fini, car il faut que je règle des problèmes avec certains assets et je dois bouger les objets dans la scène. La caméra aussi est à voir.
+
 ![Test de la scène du décor 2](../medias/test_decor2.png)
 
 Pour le décor 3, j'ai trouvé un asset de ville déjà fait. Cela me facilite la tâche. J'ai profité du temps gagné pour optimiser l'asset de ville et ajuster les éléments du décor.
+
 ![Test de rendu du décor 3](../medias/test_decor3.jpg)
+
+### Justin :
+
+J'ai fini la musique 3. De son côté, Kevin a fini de faire la voix de l'annonceur (disant le numéro de la manche et c'est le tour de quel joueur à jouer), je l'ai donc ajoutée dans ma musique. Pour aider Évan avec le décor 3, je vais essayer de l'optimiser pour qu'il soit moins lourd à charger.
 
 ## Bons coups et réussites
 

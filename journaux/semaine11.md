@@ -48,7 +48,7 @@ Cette semaine j'ai continué la programmation Unity du jeu et j'ai optimisé le 
 
 ![Screenshot de TouchDesigner](../medias/charles_sem11_td.png)
 
-![Screenshot de Unity](../medias/charles_sem11_unity.png)
+![Screenshot d'Unity](../medias/charles_sem11_unity.png)
 
 ## Bons coups et réussites
 

@@ -32,11 +32,12 @@ Pendant cette semaine, j'ai intégré le décor qu'Évan a fait dans Unity, et j
 ### Xavier:
 
 Cette semaine, j'ai complété le personnage dragon. J'ai fusionné les yeux, les dents et la tête. De plus, j'ai mis une armature sur le personnage pour les futures animations. J'ai importé la guitare.
-![dragon completer](../medias/DragonComplet.JPG)
 
-![ajout de la guitar](../medias/Dragon&guitar.JPG)
+![Dragon completé](../medias/DragonComplet.JPG)
 
-![Dragon avec le skelette](../medias/DragonRigged.JPG)
+![Ajout de la guitare](../medias/Dragon&guitar.JPG)
+
+![Dragon avec le squelette](../medias/DragonRigged.JPG)
 
 ### Justin :
 
