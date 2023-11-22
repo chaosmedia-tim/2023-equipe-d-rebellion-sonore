@@ -32,6 +32,11 @@ Pour le décor 3, j'ai trouvé un asset de ville déjà fait. Cela me facilite l
 
 J'ai fini la musique 3. De son côté, Kevin a fini de faire la voix de l'annonceur (disant le numéro de la manche et c'est le tour de quel joueur à jouer), je l'ai donc ajoutée dans ma musique. Pour aider Évan avec le décor 3, je vais essayer de l'optimiser pour qu'il soit moins lourd à charger.
 
+
+### Charles:
+
+Cette semaine, j'ai continué le travail sur le projet Unity, j'ai fait et intégré la fin de la première chanson sur Unity. J'ai aussi programmé la foule et son mouvement qui correspond aux scores des deux joueurs. De plus, j'ai commencé à intégrer la scène 2, et j'ai réparé quelques problèmes de programmation.
+
 ## Bons coups et réussites
 
 ### Mégane :
