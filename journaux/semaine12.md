@@ -65,3 +65,7 @@ J'ai beaucoup de difficulté avec les textures du décor 2. La grande majorité 
 - Finission des bannières 1 et 2
 - Finission de l'affiche imprimée (en attente de réponse du professeur)
 - Planification de la capsule vidéo
+- Intégration de la foule  dans  Unity
+- Intégration du décor 2 dans Unity
+- Ajouté transitions de fin et animation de fin
+- Ajouté d'autres effets de lumières avec TouchDesigner
