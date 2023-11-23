@@ -37,6 +37,9 @@ J'ai fini la musique 3. De son côté, Kevin a fini de faire la voix de l'annonc
 
 Cette semaine, j'ai continué le travail sur le projet Unity, j'ai fait et intégré la fin de la première chanson sur Unity. J'ai aussi programmé la foule et son mouvement qui correspond aux scores des deux joueurs. De plus, j'ai commencé à intégrer la scène 2, et j'ai réparé quelques problèmes de programmation.
 
+### Xavier:
+
+cette semaine j'ai arrangé le 'Wheight paint' du dragon pour que les futur animation. Quand on bougeais les membre du personage certain vertex bougeais aléatoirement. Maintenant il ne reste que l'animation du personnage. De plus, j'ai trouver comment importer les animations sur blender et les faire jouer a un moment voulu.
 ## Bons coups et réussites
 
 ### Mégane :
@@ -69,3 +72,4 @@ J'ai beaucoup de difficulté avec les textures du décor 2. La grande majorité 
 - Intégration du décor 2 dans Unity
 - Ajouté transitions de fin et animation de fin
 - Ajouté d'autres effets de lumières avec TouchDesigner
+- Fix vertex dragon et redecouverte comment animer dans Unity
