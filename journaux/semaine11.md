@@ -77,10 +77,10 @@ Au début avec les lumières DMX, j'étais un peu confus sur les channels et les
 - Développement des musiques #2 et #3
 - Recherche d'idées pour l'affiche imprimée
 - Captures de contenu pour la capsule vidéo
-- Captures et publications de contenu sur Facebook et Instagram
-- Fin des textures pour le dragon
+- Captures et publication de contenu sur Facebook et Instagram
+- Finitions des textures du dragon
 - Début des accessoires pour le dragon
-- Programmation des visuels score/foule sur Unity
+- Programmation des visuels (score/foule) sur Unity
 - Programmation du joueur 2 (manette, score, gameplay/musique)
 - Programmation du strum de la guitare (manettes)
 - Optimisation des notes sur les LED

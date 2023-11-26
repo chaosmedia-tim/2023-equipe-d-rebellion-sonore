@@ -94,7 +94,7 @@ Je trouve que je n'arrive pas à bien faire fonctionner les clips audio qu'on a 
 
 ## Tâches effectuées
 
-- Finition et optimisation du premier décor
+- Finitions et optimisation du premier décor
 - Égalisation de l'audio de le vidéo promotionnelle
 - Suppression de plus de plosives possible
 - Montage de la vidéo promotionnelle
