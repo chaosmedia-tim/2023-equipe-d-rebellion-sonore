@@ -69,8 +69,8 @@ J'ai beaucoup de difficulté avec les textures du décor 2. La grande majorité 
 - Tests d'intégration du dragon dans l'affiche imprimée
 - Arrangement des assets des décors 2 et 3
 - Montage du décor 2 sur Unity
-- Finissions des bannières 1 et 2
-- Finissions de l'affiche imprimée (en attente de réponse du professeur)
+- Finitions des bannières 1 et 2
+- Finitions de l'affiche imprimée (en attente de réponse du professeur)
 - Planification de la capsule vidéo
 - Intégration de la foule dans Unity
 - Intégration du décor 2 dans Unity
