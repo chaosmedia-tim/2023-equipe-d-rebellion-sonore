@@ -11,12 +11,12 @@ J'ai fait quelques tests de montage pour l'affiche imprimée pour voir comment j
 
 ![Affiche](../medias/Poster_Rebellion_Sonore_v6.png)
 
-En attendant l'accord du professeur pour savoir si notre affiche est prête a faire imprimé, je me suis occupée des bannières.
+En attendant l'accord du professeur pour savoir si notre affiche est prête à être imprimée, je me suis occupée des bannières.
 
 ![Banniere 1](../medias/Banniere_Rebellion_Sonore_1.jpg)
 ![Banniere 2](../medias/Banniere_Rebellion_Sonore_2.jpg)
 
-Puis, j'ai commencée a planifier la capsule vidéo.
+Puis, j'ai commencé à planifier la capsule vidéo.
 
 ### Évan :
 
@@ -32,14 +32,14 @@ Pour le décor 3, j'ai trouvé un asset de ville déjà fait. Cela me facilite l
 
 J'ai fini la musique 3. De son côté, Kevin a fini de faire la voix de l'annonceur (disant le numéro de la manche et c'est le tour de quel joueur à jouer), je l'ai donc ajoutée dans ma musique. Pour aider Évan avec le décor 3, je vais essayer de l'optimiser pour qu'il soit moins lourd à charger.
 
-
 ### Charles:
 
 Cette semaine, j'ai continué le travail sur le projet Unity, j'ai fait et intégré la fin de la première chanson sur Unity. J'ai aussi programmé la foule et son mouvement qui correspond aux scores des deux joueurs. De plus, j'ai commencé à intégrer la scène 2, et j'ai réparé quelques problèmes de programmation.
 
 ### Xavier:
 
-cette semaine j'ai arrangé le 'Wheight paint' du dragon pour que les futur animation. Quand on bougeais les membre du personage certain vertex bougeais aléatoirement. Maintenant il ne reste que l'animation du personnage. De plus, j'ai trouver comment importer les animations sur blender et les faire jouer a un moment voulu.
+Cette semaine, j'ai arrangé le "Wheight paint" du dragon pour les futures animations. Quand on bougeait les membres du personnage, certains vertices bougeaient aléatoirement. Maintenant, il ne reste que l'animation du personnage. De plus, j'ai trouvé comment importer les animations sur Blender et les faire jouer à un moment voulu.
+
 ## Bons coups et réussites
 
 ### Mégane :
@@ -49,6 +49,10 @@ J'ai appris plusieurs techniques sur Photoshop pour rendre un montage plus réal
 ### Évan :
 
 J'ai réussi à trouver un asset de ville dans un thème _Cyberpunk_ déjà tout construit. En plus, la ville est déjà animée et texturée. Cela m'a fait gagner énormément de temps.
+
+### Justin :
+
+J'ai réussi à optimiser le décor 3 en supprimant les éléments qu'on ne voyait pas à la caméra et régler les problèmesde matériaux (Blender ne crash plus quand on sauvegarde en mode rendu). Ainsi, Évan a pu faire un rendu pour pouvoir le mettre dans Unity (on va mettre une vidéo plutôt qu'importer la scène, ça sera moins lourd puisque la scène est déjà animée).
 
 ## Difficultés et défis
 
@@ -63,13 +67,13 @@ J'ai beaucoup de difficulté avec les textures du décor 2. La grande majorité 
 ## Tâches effectuées
 
 - Tests d'intégration du dragon dans l'affiche imprimée
-- Arrangement des assets des décor 2 et 3
+- Arrangement des assets des décors 2 et 3
 - Montage du décor 2 sur Unity
-- Finission des bannières 1 et 2
-- Finission de l'affiche imprimée (en attente de réponse du professeur)
+- Finissions des bannières 1 et 2
+- Finissions de l'affiche imprimée (en attente de réponse du professeur)
 - Planification de la capsule vidéo
-- Intégration de la foule  dans  Unity
+- Intégration de la foule dans Unity
 - Intégration du décor 2 dans Unity
 - Ajouté transitions de fin et animation de fin
 - Ajouté d'autres effets de lumières avec TouchDesigner
-- Fix vertex dragon et redecouverte comment animer dans Unity
+- Correction des vertices du dragon et redécouverte comment animer dans Unity
