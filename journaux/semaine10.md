@@ -29,7 +29,7 @@ Pendant cette semaine, j'ai intégré le décor qu'Évan a fait dans Unity, et j
 
 ![Scène Unity avec décor](../medias/charles_sem10.png)
 
-### Xavier:
+### Xavier :
 
 Cette semaine, j'ai complété le personnage dragon. J'ai fusionné les yeux, les dents et la tête. De plus, j'ai mis une armature sur le personnage pour les futures animations. J'ai importé la guitare.
 

@@ -14,6 +14,7 @@ J'ai fait quelques tests de montage pour l'affiche imprimée pour voir comment j
 En attendant l'accord du professeur pour savoir si notre affiche est prête à être imprimée, je me suis occupée des bannières.
 
 ![Banniere 1](../medias/Banniere_Rebellion_Sonore_1.jpg)
+
 ![Banniere 2](../medias/Banniere_Rebellion_Sonore_2.jpg)
 
 Puis, j'ai commencé à planifier la capsule vidéo.
@@ -32,17 +33,17 @@ Pour le décor 3, j'ai trouvé un asset de ville déjà fait. Cela me facilite l
 
 J'ai fini la musique 3. De son côté, Kevin a fini de faire la voix de l'annonceur (disant le numéro de la manche et c'est le tour de quel joueur à jouer), je l'ai donc ajoutée dans ma musique. Pour aider Évan avec le décor 3, je vais essayer de l'optimiser pour qu'il soit moins lourd à charger.
 
-### Charles:
+### Charles :
 
 Cette semaine, j'ai continué le travail sur le projet Unity, j'ai fait et intégré la fin de la première chanson sur Unity. J'ai aussi programmé la foule et son mouvement qui correspond aux scores des deux joueurs. De plus, j'ai commencé à intégrer la scène 2, et j'ai réparé quelques problèmes de programmation.
 
-### Xavier:
+### Xavier :
 
 Cette semaine, j'ai arrangé le "Wheight paint" du dragon pour les futures animations. Quand on bougeait les membres du personnage, certains vertices bougeaient aléatoirement. Maintenant, il ne reste que l'animation du personnage. De plus, j'ai trouvé comment importer les animations sur Blender et les faire jouer à un moment voulu.
 
-### Kevin : 
+### Kevin :
 
-Cette semaine, j'ai réalisé l'animation 2D et le bruit de la foule qui va être affiché devant le joueur. J'ai aussi fait l'animation de l'arrière plan de la scène 1 du projet. Je suis aller chercher plusieurs élément à animer au rythme de la musique. 
+Cette semaine, j'ai réalisé l'animation 2D et le bruit de la foule qui vont être affichés devant le joueur. J'ai aussi fait l'animation de l'arrière-plan de la scène 1 du projet. Je suis allé chercher plusieurs éléments à animer au rythme de la musique.
 
 ## Bons coups et réussites
 
@@ -56,7 +57,7 @@ J'ai réussi à trouver un asset de ville dans un thème _Cyberpunk_ déjà tout
 
 ### Justin :
 
-J'ai réussi à optimiser le décor 3 en supprimant les éléments qu'on ne voyait pas à la caméra et régler les problèmesde matériaux (Blender ne crash plus quand on sauvegarde en mode rendu). Ainsi, Évan a pu faire un rendu pour pouvoir le mettre dans Unity (on va mettre une vidéo plutôt qu'importer la scène, ça sera moins lourd puisque la scène est déjà animée).
+J'ai réussi à optimiser le décor 3 en supprimant les éléments qu'on ne voyait pas à la caméra et régler les problèmes de matériaux (Blender ne crash plus quand on sauvegarde en mode rendu). Ainsi, Évan a pu faire un rendu pour pouvoir le mettre dans Unity (on va mettre une vidéo plutôt qu'importer la scène, ça sera moins lourd puisque la scène est déjà animée).
 
 ## Difficultés et défis
 
@@ -70,7 +71,7 @@ J'ai beaucoup de difficulté avec les textures du décor 2. La grande majorité 
 
 ### Kevin :
 
-J'ai eu de la difficulté à intégrer la scène de Blender à Unity. J'ai du prendre un moment pour me rappeler de l'interface Unity. J'ai appris qu'on ne pouvais pas intégrer de vidéo avec de la transparence dans Unity.
+J'ai eu de la difficulté à intégrer la scène de Blender à Unity. J'ai dû prendre un moment pour me rappeler de l'interface Unity. J'ai appris qu'on ne pouvait pas intégrer de vidéo avec de la transparence dans Unity.
 
 ## Tâches effectuées
 
@@ -87,4 +88,4 @@ J'ai eu de la difficulté à intégrer la scène de Blender à Unity. J'ai du pr
 - Correction des vertices du dragon et redécouverte comment animer dans Unity
 - Animation de la foule
 - Son de la foule
-- Animation de l'arrière plan de la scène 1
+- Animation de l'arrière-plan de la scène 1

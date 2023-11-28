@@ -32,17 +32,17 @@ De mon côté, j'ai bien avancé la musique #3. Il me reste à harmoniser le tou
 
 ![Apperçu musique #3](../medias/audition_musique3.PNG)
 
-### Xavier:
+### Xavier :
 
 J'ai avancé les shaders du dragon. J'ai commencé à faire les décorations telles que des anneaux cheveux. Pour la suite je compte intégrer une veste.
 
 ![Dragon avec sa chevelure](../medias/DragonCheveux.JPG)
 
-### Kevin:
+### Kevin :
 
 Durant la semaine 11, j'ai composé dans son entièreté la deuxième musique de l'expérience. Je suis allé chercher en premier les samples de guitares et ensuite les percussions. Une fois la guitare et les percussions assemblées, j'ai finalisé la composition avec de la basse que j'ai enregistrée par moi-même. Aussi, j'ai refait avec Justin la première musique dont nous n'étions pas satisfaits. Nous avons suivi le même processus que pour la musique 2, à l'exception que j'ai composé les percussions avec le drum rack d'Ableton.
 
-### Charles:
+### Charles :
 
 Cette semaine j'ai continué la programmation Unity du jeu et j'ai optimisé le code pour 2 joueurs. Aussi, j'ai rajouté le score pour le score du deuxième joueur, j'ai programmé la manette du joueur 2 et j'ai ajouté l'intégration ou il faut strummer la guitare pour bien avoir la note. De plus, j'ai programmé le switch du joueur 1 au joueur 2 dans la musique et le gameplay et j'ai fait la programmation de la foule pour représenter le score aux joueurs. À travers tout ça, j'ai aussi beaucoup avancé l'intégration des lumières dans TouchDesigner et j'ai joué avec plusieurs lumières DMX pour savoir comment les _daisy-chain_. J'ai aussi optimisé les LED pour que les notes qui apparaissent soient plus claires au joueur.
 
@@ -52,7 +52,7 @@ Cette semaine j'ai continué la programmation Unity du jeu et j'ai optimisé le 
 
 ## Bons coups et réussites
 
-### Charles:
+### Charles :
 
 La programmation du deuxième joueur s'est bien passée, pas beaucoup de problèmes dans le développement. La même chose pour les lumières DMX, une fois qu'on sait comment ça marche, c'est assez simple.
 
@@ -62,11 +62,11 @@ La programmation du deuxième joueur s'est bien passée, pas beaucoup de problè
 
 Ma plus grande difficulté cette semaine a été de trouver des assets pour Unity qui seront utilisés dans le décor 2. La majorité du décor va bouger, donc j'ai besoin d'assets spécialement conçus pour Unity, mais la grande majorité de ceux-ci coûtent de l'argent, et pas qu'un peu. Les assets gratuits que je trouve sont de basse qualité et doivent être modifiés pour le projet, ce qui prend du temps et qui n'est pas super facile.
 
-### Xavier:
+### Xavier :
 
 Ma difficulté cette semaine fut avec l'équipement. J'ai eu beaucoup de problèmes avec les ordis de l'école comme chez moi. J'ai aussi eu de la misère avec internet.
 
-### Charles:
+### Charles :
 
 Au début avec les lumières DMX, j'étais un peu confus sur les channels et les adresses, mais je crois que j'ai compris, et depuis ça marche beaucoup mieux.
 
