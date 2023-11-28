@@ -40,6 +40,10 @@ Cette semaine, j'ai continué le travail sur le projet Unity, j'ai fait et inté
 
 Cette semaine, j'ai arrangé le "Wheight paint" du dragon pour les futures animations. Quand on bougeait les membres du personnage, certains vertices bougeaient aléatoirement. Maintenant, il ne reste que l'animation du personnage. De plus, j'ai trouvé comment importer les animations sur Blender et les faire jouer à un moment voulu.
 
+### Kevin : 
+
+Cette semaine, j'ai réalisé l'animation 2D et le bruit de la foule qui va être affiché devant le joueur. J'ai aussi fait l'animation de l'arrière plan de la scène 1 du projet. Je suis aller chercher plusieurs élément à animer au rythme de la musique. 
+
 ## Bons coups et réussites
 
 ### Mégane :
@@ -64,6 +68,10 @@ Souhaitant intégrer le dragon dans l'affiche, j'ai voulu prendre des photos de 
 
 J'ai beaucoup de difficulté avec les textures du décor 2. La grande majorité des assets sont texturés à l'aide de Blender et Unity ne prend pas en charge certaines textures de Blender. Je dois trouver un moyen d'exporter les assets avec leurs textures vers Unity.
 
+### Kevin :
+
+J'ai eu de la difficulté à intégrer la scène de Blender à Unity. J'ai du prendre un moment pour me rappeler de l'interface Unity. J'ai appris qu'on ne pouvais pas intégrer de vidéo avec de la transparence dans Unity.
+
 ## Tâches effectuées
 
 - Tests d'intégration du dragon dans l'affiche imprimée
@@ -77,3 +85,6 @@ J'ai beaucoup de difficulté avec les textures du décor 2. La grande majorité 
 - Ajouté transitions de fin et animation de fin
 - Ajouté d'autres effets de lumières avec TouchDesigner
 - Correction des vertices du dragon et redécouverte comment animer dans Unity
+- Animation de la foule
+- Son de la foule
+- Animation de l'arrière plan de la scène 1
