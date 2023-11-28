@@ -17,7 +17,7 @@ J'ai passé la semaine à optimiser le projet et à essayer de l'export sur Unit
 
 Voici une image du rendu (le dragon fait un backflip)
 
-![Décor 3 rendu avec dragon](../medias/backflip.png)
+![Décor 3 rendu avec dragon](../medias/backflip.PNG)
 
 ## Bons coups et réussites
 
@@ -26,6 +26,7 @@ Voici une image du rendu (le dragon fait un backflip)
 ### Évan : 
 
 J'ai passé des heures à essayer d'exporter le projet en fbx vers Unity. Sans réussite. On a finalement décidé que le décor allait être un rendu Blender intégré dans la scène.
+(Voici le décor en train de crash)
 
 ![Décor 3 qui crashe](../medias/decor3_crash.png)
 
