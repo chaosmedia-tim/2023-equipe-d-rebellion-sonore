@@ -11,7 +11,7 @@ J'ai passé la semaine à travailler sur la capsule vidéo. J'ai ajouté des tra
 
 ### Évan : 
 
-J'ai passé la semaine à optimiser le projet et à essayer de l'export sur Unity.
+J'ai passé la semaine à optimiser le décor 3 et à essayer de l'export sur Unity.
 
 ![Décor 3](../medias/decor3.png)
 
@@ -25,7 +25,7 @@ Voici une image du rendu (le dragon fait un backflip)
 
 ### Évan : 
 
-J'ai passé des heures à essayer d'exporter le projet en fbx vers Unity. Sans réussite. On a finalement décidé que le décor allait être un rendu Blender intégré dans la scène.
+J'ai passé des heures à essayer d'exporter le décor 3 en fbx vers Unity. Sans réussite. On a finalement décidé que le décor allait être un rendu Blender intégré dans la scène.
 (Voici le décor en train de crash)
 
 ![Décor 3 qui crashe](../medias/decor3_crash.png)
