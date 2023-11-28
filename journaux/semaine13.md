@@ -28,7 +28,7 @@ Voici une image du rendu (le dragon fait un backflip)
 J'ai passé des heures à essayer d'exporter le décor 3 en fbx vers Unity. Sans réussite. On a finalement décidé que le décor allait être un rendu Blender intégré dans la scène.
 (Voici le décor en train de crash)
 
-![Décor 3 qui crashe](../medias/decor3_crash.png)
+![Décor 3 qui crash](../medias/decor3_crash.png)
 
 ## Tâches effectuées
 
