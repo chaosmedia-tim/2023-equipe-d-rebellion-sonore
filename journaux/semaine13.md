@@ -31,7 +31,7 @@ J'ai passé des heures à essayer d'exporter le décor 3 en fbx vers Unity. Sans
 
 ### Justin :
 
-Après avoir fait avec les autres membres la générale, on s'est rendu compte que l'installation était plus dûre que prévu. Aussi, cette expérience nous a permi de remarquer plusieurs problèmes. En effet, la deuxième guitare n'avait plus de pile, donc on était obligé de passer l'autre guitare entre chaque manche du jeu. Aussi, les utilisateurs nous ont fait remarquer que c'était dommage que le décor était derrière eux (ils ne pouvaient donc pas le voir et il n'y avait pas d'animations en lien avec le rythme de la musique). De plus, le son sortait mal (beaucoup de statique) des hauts-parleurs que nous avions réservé, il aurait fallu faire des tests avec ceux-ci avant la générale. Bref, on a une meilleure idée de ce qui nous reste à faire et à corriger en vue de ChaosMédia.
+Après avoir fait avec les autres membres la générale, on s'est rendu compte que l'installation était plus dure que prévu. Aussi, cette expérience nous a permis de remarquer plusieurs problèmes. En effet, la deuxième guitare n'avait plus de pile, donc on était obligé de passer l'autre guitare entre chaque manche du jeu. Aussi, les utilisateurs nous ont fait remarquer que c'était dommage que le décor était derrière eux (ils ne pouvaient donc pas le voir et il n'y avait pas d'animations en lien avec le rythme de la musique). De plus, le son sortait mal (beaucoup de statique) des haut-parleurs que nous avions réservés, il aurait fallu faire des tests avec ceux-ci avant la générale. Bref, on a une meilleure idée de ce qui nous reste à faire et à corriger en vue de ChaosMédia.
 
 ![Installation 1](../medias/installation1.PNG)
 
