@@ -86,6 +86,5 @@ J'ai eu de la difficulté à intégrer la scène de Blender à Unity. J'ai dû p
 - Ajouté transitions de fin et animation de fin
 - Ajouté d'autres effets de lumières avec TouchDesigner
 - Correction des vertices du dragon et redécouverte comment animer dans Unity
-- Animation de la foule
-- Son de la foule
+- Animation et son de la foule
 - Animation de l'arrière-plan de la scène 1
