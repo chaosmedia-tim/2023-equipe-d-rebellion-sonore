@@ -23,6 +23,10 @@ Voici une image du rendu (le dragon fait un backflip)
 
 ![Décor 3 rendu avec dragon](../medias/backflip.PNG)
 
+### Kevin :
+
+Cette semaine j'ai continué d'animer le décor de la scène 1
+
 ## Bons coups et réussites
 
 ## Difficultés et défis
