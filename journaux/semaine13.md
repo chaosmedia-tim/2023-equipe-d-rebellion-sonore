@@ -9,6 +9,10 @@ layout: post
 
 J'ai passé la semaine à travailler sur la capsule vidéo. J'ai ajouté des transitions, égalisé l'audio ajouté un mini générique à la fin pour mentionner que la musique a été faite par Kevin et Justin. Lorsque j'ai fini la vidéo, je l'ai postée sur Facebook et Instagram pour que nos publications de la semaine 13 soient déjà faites.
 
+### Charles :
+
+J'ai passé la semaine à travailler sur l'intégration de la musique dans Unity, j'ai intégré le personnage dans la scène 1 2 et 3 du projet, j'ai enfin réparé un bug avec les boutons qui ne marchaient pas, et finalement j'ai réparé quelques bugs de musiques et de synchronisation avec les notes.
+
 ### Évan :
 
 J'ai passé la semaine à optimiser le décor 3 et à essayer de l'export sur Unity.
@@ -48,3 +52,6 @@ Après avoir fait avec les autres membres la générale, on s'est rendu compte q
 - Publications sur Facebook et Instagram pour la semaine 13
 - Optimisation, montage et rendu temporaire du décor 3
 - Générale du projet (avec les tests QA)
+- Intégration de la musique 1, 2 et 3
+- Intégration des personnages aux scènes
+- Réparé bug de notes qui ne marchaient pas desfois
