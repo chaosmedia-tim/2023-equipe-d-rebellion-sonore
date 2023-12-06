@@ -28,7 +28,9 @@ Voici une image du rendu (le dragon fait un backflip)
 Cette semaine j'ai continué d'animer le décor de la scène 1
 
 ### Xavier :
-Début du nouveau personnage de type mecha. J'ai fait plusieur tentative et finalement j'ai choisi un personnage avec des trait humain.
+Début du nouveau personnage de type mecha. Jai eu plusieur difficulté comme la conception du skelette. Finalment je vais abandonne ce model du a une erreur majeur du mesh qui rend le rig impossible.
+![Décor 3 rendu avec dragon](../medias/Rex.JPG)
+Après plusieur tentative j'ai finalement choisi un personnage avec des trait humain. C'est toujours un robot. 
 ![Décor 3 rendu avec dragon](../medias/CaptureRobot2.2.JPG)
 
 
