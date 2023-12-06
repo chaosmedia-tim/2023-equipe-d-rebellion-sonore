@@ -66,3 +66,5 @@ Après avoir fait avec les autres membres la générale, on s'est rendu compte q
 - Intégration de la musique 1, 2 et 3
 - Intégration des personnages aux scènes
 - Réparé bug de notes qui ne marchaient pas desfois
+- recherche nouveau personnage
+- creation du personnage + rig * 2
