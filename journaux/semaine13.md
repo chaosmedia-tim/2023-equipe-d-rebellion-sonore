@@ -28,16 +28,15 @@ Voici une image du rendu (le dragon fait un backflip)
 Cette semaine j'ai continué d'animer le décor de la scène 1
 
 ### Xavier :
-Début du nouveau personnage de type mecha. Jai eu plusieur difficulté comme la conception du skelette. Finalment je vais abandonne ce model du a une erreur majeur du mesh qui rend le rig impossible.
+Début du nouveau personnage de type mecha. J'ai utiliser un asset en ligne que j'ai modifier les couleurs et suprimmer/decimer le nombre de vertex. Jai eu plusieur difficulté comme la conception du skelette. Finalment je vais abandonne ce model du a une erreur majeur du mesh qui rend le rig impossible.
 ![Décor 3 rendu avec dragon](../medias/Rex.JPG)
-Après plusieur tentative j'ai finalement choisi un personnage avec des trait humain. C'est toujours un robot. 
+Après plusieur tentative j'ai finalement choisi un personnage avec des trait humain. C'est toujours un robot!. J'ai encore utiliser un assets car je n'ai pas le temps de batir un personnage de zero.
 ![Décor 3 rendu avec dragon](../medias/CaptureRobot2.2.JPG)
 
 
 ## Bons coups et réussites
 
 ## Difficultés et défis
-
 ### Évan :
 
 J'ai passé des heures à essayer d'exporter le décor 3 en fbx vers Unity. Sans réussite. On a finalement décidé que le décor allait être un rendu Blender intégré dans la scène. (Voici le décor en train de crash)
@@ -54,6 +53,8 @@ Après avoir fait avec les autres membres la générale, on s'est rendu compte q
 
 ![Installation 3](../medias/installation3.PNG)
 
+### Xavier :
+Le rig du premier personnage était defficiant. Les méthode pour régler le problème ne fonctionnait pas.
 ## Tâches effectuées
 
 - Ajout de transitions dans la capsule vidéo
