@@ -27,6 +27,11 @@ Voici une image du rendu (le dragon fait un backflip)
 
 Cette semaine j'ai continué d'animer le décor de la scène 1
 
+### Xavier :
+Début du nouveau personnage de type mecha. J'ai fait plusieur tentative et finalement j'ai choisi un personnage avec des trait humain.
+![Décor 3 rendu avec dragon](../medias/CaptureRobot2.2.JPG)
+
+
 ## Bons coups et réussites
 
 ## Difficultés et défis
