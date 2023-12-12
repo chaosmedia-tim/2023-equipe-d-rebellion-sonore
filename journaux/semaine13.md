@@ -23,6 +23,10 @@ Voici une image du rendu (le dragon fait un backflip) :
 
 ![Décor 3 rendu avec dragon](../medias/backflip.PNG)
 
+### Justin :
+
+Cette semaine, je me suis concentré sur le côté de l'assurance qualité du projet. Prévoyant les problèmes possibles et comment les régler.
+
 ### Kevin :
 
 Cette semaine, j'ai continué d'animer le décor de la scène 1.
@@ -31,11 +35,11 @@ Cette semaine, j'ai continué d'animer le décor de la scène 1.
 
 Début du nouveau personnage de type mecha. J'ai utilisé un asset en ligne où j'ai modifié les couleurs et supprimé/décimé le nombre de vertices. J'ai eu beaucoup de difficultés avec la conception du squelette. Finalement, je vais abandonner ce modèle, car il a une erreur majeure du mesh qui rend le rig impossible.
 
-![Décor 3 rendu avec dragon](../medias/Rex.JPG)
+![Robot 1](../medias/Rex.JPG)
 
 Après plusieurs tentatives, j'ai finalement choisi un personnage avec des traits humains. C'est toujours un robot ! J'ai encore utilisé un asset, car je n'ai pas le temps de bâtir un personnage de zéro.
 
-![Décor 3 rendu avec dragon](../medias/CaptureRobot2.2.JPG)
+![Robot 2](../medias/CaptureRobot2.2.JPG)
 
 ## Bons coups et réussites
 
