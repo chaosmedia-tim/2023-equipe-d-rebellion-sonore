@@ -7,7 +7,7 @@ layout: post
 
 ### Mégane :
 
-J'ai passé la semaine à travailler sur la capsule vidéo. J'ai ajouté des transitions, égalisé l'audio et ajouté un mini générique à la fin pour mentionner que la musique a été faite par Kevin et Justin. Lorsque j'ai fini la vidéo, je l'ai postée sur Facebook et Instagram pour que nos publications de la semaine 13 soient déjà faites.
+J'ai passé la semaine à travailler sur la capsule vidéo. J'ai ajouté des transitions, égalisé l'audio et ajouté un mini générique à la fin pour mentionner que la musique a été faite par Kevin et Justin. Lorsque j'ai fini la vidéo, je l'ai postée sur Facebook et Instagram pour que nos publications de la semaine 13 soient faites.
 
 ### Charles :
 
@@ -20,7 +20,6 @@ J'ai passé la semaine à optimiser le décor 3 (avec de nouvelles modifications
 ![Décor 3](../medias/decor3.png)
 
 Voici une image du rendu (le dragon fait un backflip) :
-
 ![Décor 3 rendu avec dragon](../medias/backflip.PNG)
 
 ### Justin :
@@ -47,8 +46,7 @@ Après plusieurs tentatives, j'ai finalement choisi un personnage avec des trait
 
 ### Évan :
 
-J'ai passé des heures à essayer d'exporter le décor 3 en fbx vers Unity. Sans réussite. On a finalement décidé que le décor allait être un rendu Blender intégré dans la scène. (Voici le décor en train de crash)
-
+J'ai passé des heures à essayer d'exporter le décor 3 en fbx vers Unity. Sans réussite. On a finalement décidé que le décor allait être un rendu Blender intégré dans la scène. Voici le décor en train de crash :
 ![Décor 3 qui crash](../medias/decor3_crash.png)
 
 ### Justin :

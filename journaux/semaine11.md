@@ -7,7 +7,7 @@ layout: post
 
 ### Mégane :
 
-Cette semaine, j'ai fait des recherches d'idées pour l'affiche imprimée, fait des tests sur Blender pour prendre des images du personnage pour l'affiche imprimée, fait des captures photos et vidéos pendant les cours pour du contenu pour la capsule vidéo et fait des publications sur Instagram et Facebook.
+Cette semaine, j'ai fait des recherches d'idées pour l'affiche imprimée, fait des tests sur Blender pour prendre des images du personnage pour l'affiche imprimée, fait des captures photos et vidéos pendant les cours pour du contenu pour la capsule vidéo et fait des publications sur Instagram ainsi que Facebook.
 
 Test sur Blender :
 ![Test du perso sur blender](../medias/dragon_behind.png)

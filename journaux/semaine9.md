@@ -9,9 +9,7 @@ layout: post
 
 ![Megane AfterEffects](../medias/MotionDesign_Megane.png)
 
-J'ai travaillé sur le _motion design_ du logo de Rébellion Sonore pour la capsule promotionnelle, et j'ai fait une publication sur Instagram. Évan et moi avons aussi commencé la planification pour la capsule promotionnelle.
-J'ai fait des recherches de contenus libres de droits pour la vidéo promotionnelle.
-J'ai découpé le fichier audio d'Évan en sections pour faciliter le montage de la vidéo promotionnelle.
+J'ai travaillé sur le _motion design_ du logo de Rébellion Sonore pour la capsule promotionnelle et j'ai fait une publication sur Instagram. Évan et moi avons aussi commencé la planification pour la capsule promotionnelle. J'ai fait des recherches de contenus libres de droits pour la vidéo promotionnelle. J'ai découpé le fichier audio d'Évan en sections pour faciliter le montage de la vidéo promotionnelle.
 
 ### Évan :
 
@@ -67,8 +65,7 @@ Après avoir travaillé dans Reaper, j'ai décidé de changer de logiciel en pas
 
 ### Mégane :
 
-J'ai eu de la difficulté à commencer le montage de la capsule vidéo, car j'attendais d'avoir tout le contenu visuel nécessaire pour débuter le montage, mais j'ai fini par changer d'avis lorsque je me suis rendu compte que je perdais trop de temps à attendre.
-J'ai également eu de la difficulté à travaillé sur le montage à l'école, puisque j'ai commencé le travail chez moi sur une version différente d'After Effects que ceux qui sont sur les ordis de l'école.
+J'ai eu de la difficulté à commencer le montage de la capsule vidéo, car j'attendais d'avoir tout le contenu visuel nécessaire pour débuter le montage, mais j'ai fini par changer d'avis lorsque je me suis rendu compte que je perdais trop de temps à attendre. J'ai également eu de la difficulté à travaillé sur le montage à l'école, puisque j'ai commencé le travail chez moi sur une version différente d'After Effects que ceux qui sont sur les ordis de l'école.
 
 ### Charles :
 

@@ -49,7 +49,7 @@ Cette semaine, j'ai réalisé l'animation 2D et le bruit de la foule qui vont ê
 
 ### Mégane :
 
-J'ai appris plusieurs techniques sur Photoshop pour rendre un montage plus réaliste en prenant en compte les teintes, saturations, contrastes et luminosité de tous les objets présents dans le montage afin de pouvoir les harmoniser ensemble. Avant, j'y allais beaucoup plus à l'oeil.
+J'ai appris plusieurs techniques sur Photoshop pour rendre un montage plus réaliste en prenant en compte les teintes, saturations, contrastes et la luminosité de tous les objets présents dans le montage afin de pouvoir les harmoniser ensemble. Avant, j'y allais beaucoup plus à l'oeil.
 
 ### Évan :
 

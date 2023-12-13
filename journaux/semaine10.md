@@ -17,7 +17,7 @@ Rendu avec Cycles :
 
 ### Mégane :
 
-Cette semaine, j'ai passé beaucoup de temps sur le montage vidéo de la capsule promotionnelle. J'ai aussi retravaillé l'audio de la vidéo pour qu'il soit égalisé et j'ai testé différentes techniques pour enlever les sons de fonds. J'ai aussi appliqué des effets sur l'audio pour enlever le plus de plosives possible. Lorsque la vidéo était terminée, je l'ai publiée sur Facebook.
+Cette semaine, j'ai passé beaucoup de temps sur le montage vidéo de la capsule promotionnelle. J'ai aussi retravaillé l'audio de la vidéo pour qu'il soit égalisé et j'ai testé différentes techniques pour enlever les sons en arrière-plan. J'ai aussi appliqué des effets sur l'audio pour enlever le plus de plosives possible. Lorsque la vidéo était terminée, je l'ai publiée sur Facebook.
 
 ### Kevin :
 
@@ -55,7 +55,7 @@ J'ai réussi à mieux optimiser le décor que ce que je pensais. Je pensais fini
 
 ### Mégane :
 
-J'ai trouvé une technique facile pour égaliser les sons sur Premiere Pro. J'avais essayé sur Audition et même a l'oreille sur After Effects, mais la technique que j'ai fini par découvrir a vraiment rendu la tâche facile.
+J'ai trouvé une technique facile pour égaliser les sons sur Premiere Pro. J'avais essayé sur Audition et même à l'oreille sur After Effects, mais la technique que j'ai fini par découvrir a vraiment rendu la tâche plus facile.
 
 ### Charles :
 
@@ -85,8 +85,7 @@ Le InputSystem a prouvé être encore un problème, surtout en lien avec les scr
 
 ### Xavier :
 
-Beaucoup trop de vertices !!!! J'avais 5 millions d'arêtes. C'était beaucoup trop lourd pour fusionner le squelette et le personnage. J'ai perdu beaucoup de temps à faire fonctionner mon ordi en regardant le modèle pour rien.
-Charles m'a montré une technique pour diminuer énormément le nombre de vertices et d'arêtes. Cela a affecté la qualité, mais j'ai pu mettre l'armature sur le personnage. Je suis tombé à 28000 vertices.
+Beaucoup trop de vertices !!!! J'avais 5 millions d'arêtes. C'était beaucoup trop lourd pour fusionner le squelette et le personnage. J'ai perdu beaucoup de temps à faire fonctionner mon ordi en regardant le modèle pour rien. Charles m'a montré une technique pour diminuer énormément le nombre de vertices et d'arêtes. Cela a affecté la qualité, mais j'ai pu mettre l'armature sur le personnage. Je suis tombé à 28000 vertices.
 
 ### Kevin :
 

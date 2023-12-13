@@ -9,13 +9,11 @@ layout: post
 
 ![Logo média sociaux](../medias/Logo_Neon_socialmedia.png)
 
-J'ai fait une nouvelle version du logo pour les réseaux sociaux, j'ai fait une image de fond pour Facebook, et j'ai fait une publication sur Facebook. Évan et moi avons fait les comptes du projet sur les réseaux sociaux.
-J'ai recréé la page Facebook sur mon compte personnel, puisque le compte Facebook que nous avions créé a été désactivé.
+J'ai fait une nouvelle version du logo pour les réseaux sociaux, j'ai fait une image de fond pour Facebook et j'ai fait une publication sur Facebook. Évan et moi avons fait les comptes du projet sur les réseaux sociaux. J'ai recréé la page Facebook sur mon compte personnel, puisque le compte Facebook que nous avions créé a été désactivé.
 
 ### Justin :
 
 Kevin et moi avons commencé à faire des recherches sur les différents instruments de musique qu'on peut utiliser pour notre musique. On a décidé de commencer par créer une musique pour le moment avant de créer les autres. Voici à quoi ressemble notre début de montage audio dans le logiciel Reaper :
-
 ![Capture d'écran Reaper](../medias/justin_sem8.png)
 
 ### Xavier :
@@ -64,7 +62,7 @@ On a fait un compte Facebook pour faciliter la gestion des réseaux sociaux, mai
 
 ### Xavier :
 
-Trouver des prefabs et sculpter une tête de dragon. C'est difficile d'en trouver une déjà faite, car tous les bons prefabs sont payants. La sculpture de haut niveau est plus dure que prévu.
+J'ai trouvé des prefabs et sculpté une tête de dragon. C'est difficile d'en trouver une déjà faite, car tous les bons prefabs sont payants. La sculpture de haut niveau est plus dure que prévu.
 
 ### Kevin :
 
