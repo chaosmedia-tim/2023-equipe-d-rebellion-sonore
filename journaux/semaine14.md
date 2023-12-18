@@ -24,11 +24,19 @@ Image de l'effet de lazer qui a été ajouté aux vaisseaux
 Image du rendu final
 ![Rendu final du décor 3](../medias/rendu_final.jpg)
 
+### Kevin :
+
+Durant la semaine 14, je me suis mis à travailler sur la musique de l'écran d'attente. Pour y arriver, j'ai composé des riffs à la basse que j'ai pasr la suite enregistrer et j'ai programmer les percussions de la musique avec le drum track de Ableton. J'ai aussi fait la soudure d'une led afin de pouvoir remplacer l'une de nos leds qui était partiellement brisée lors de la général.
+
 ## Bons coups et réussites
 
 ### Mégane :
 
 J'ai appris comment faire en sorte que ma vidéo joue en boucle dans Premiere Pro.
+
+### Kevin : 
+
+J'ai appris que je pouvais programmer les percussions dans une timeine à la place de lancer le recording et devoir jouer au tempo de la music avec les touches de mon clavier.
 
 ## Difficultés et défis
 
@@ -40,6 +48,10 @@ J'ai essayé de faire une animation avec les couleurs de notre projet tout en ga
 
 Je n'ai pas réussi à allonger les animations des personnages. Et je n'ai pas réussi à arranger le bug d'animation du perso 2 (mecha) qui le faisait avancer et tourner tout seul dans le décor.
 
+### Kevin :
+
+J'ai eu de la difficulté à être sur le bon tempo avec les drums et la basse. Lors de mon premier essaie avec la soudure, j'ai fait fondre le cuivres à l'intérieur de la led empêchant celle-ci de fonctionner. À cause de cela, j'ai dû découper un autre morceau de led que j'ai souder au morceau qu'on avait déjà. De plus, je me suis brulé 3 fois parce que je suis maladroit à ce point. 
+
 ## Tâches effectuées
 
 - Compilation des capsules vidéo en une seule vidéo pour la remise
@@ -50,3 +62,5 @@ Je n'ai pas réussi à allonger les animations des personnages. Et je n'ai pas r
 - Finitions de l'écran d'attente
 - Ajout d'animations et d'effets au décor 3
 - Rendu final du décor 3
+- Musique de l'écran d'attente
+- Soudure d'une led
