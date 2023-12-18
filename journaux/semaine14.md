@@ -28,6 +28,10 @@ Image du rendu final
 
 Durant la semaine 14, je me suis mis à travailler sur la musique de l'écran d'attente. Pour y arriver, j'ai composé des riffs à la basse que j'ai pasr la suite enregistrer et j'ai programmer les percussions de la musique avec le drum track de Ableton. J'ai aussi fait la soudure d'une led afin de pouvoir remplacer l'une de nos leds qui était partiellement brisée lors de la général.
 
+### Xavier:
+J'ai faits et essayer de reparer des bugs. J'ai reussi a regler la majeur partie des bugs du dragon. J'ai crée le perso 2 avec les animation. Le personnage est un asset et les animation vienne de mixamo.
+
+
 ## Bons coups et réussites
 
 ### Mégane :
@@ -52,6 +56,10 @@ Je n'ai pas réussi à allonger les animations des personnages. Et je n'ai pas r
 
 J'ai eu de la difficulté à être sur le bon tempo avec les drums et la basse. Lors de mon premier essaie avec la soudure, j'ai fait fondre le cuivres à l'intérieur de la led empêchant celle-ci de fonctionner. À cause de cela, j'ai dû découper un autre morceau de led que j'ai souder au morceau qu'on avait déjà. De plus, je me suis brulé 3 fois parce que je suis maladroit à ce point. 
 
+### Xavier:
+BUg des animation du dragon du au transform et a la localisation des frames.
+
+
 ## Tâches effectuées
 
 - Compilation des capsules vidéo en une seule vidéo pour la remise
@@ -64,3 +72,6 @@ J'ai eu de la difficulté à être sur le bon tempo avec les drums et la basse. 
 - Rendu final du décor 3
 - Musique de l'écran d'attente
 - Soudure d'une led
+- Mecha
+- Animation mecha
+- fix dragon
