@@ -14,6 +14,16 @@ J'ai débuté la semaine en compilant les capsules vidéo en une seule vidéo. P
 J'ai améliorer l'agencement des objets dans le décor 2. Les montagnes m'agassaient, j'ai donc trouvé un asset qui rend bien meilleur au rendu. J'ai aussi trouvé un asset de bateaux de guerre pour ajouter plus d'épaves dans le décor. Voici à quoi ça ressemble :
 ![Décor 2 optimisé](../medias/decor2_opti.PNG)
 
+### Évan :
+
+J'ai finalisé le décor 3 en ajoutant des animations (vaisseaux) et encore une fois faire de petites optmisations. J'ai ajouté des effets (lazer et explosion), ajouté les personnages et arrangé leur animations pour le décor et fait le rendu final.
+
+Image de l'effet de lazer qui a été ajouté aux vaisseaux
+![Effet de lazer](../medias/effet_final.png)
+
+Image du rendu final
+![Rendu final du décor 3](../medias/rendu_final.jpg)
+
 ## Bons coups et réussites
 
 ### Mégane :
@@ -26,6 +36,10 @@ J'ai appris comment faire en sorte que ma vidéo joue en boucle dans Premiere Pr
 
 J'ai essayé de faire une animation avec les couleurs de notre projet tout en gardant la lisibilité (et faire en sorte que ça reste accessible), c'était un défi pour moi. Je me suis donc assurée d'obtenir l'avis de mes collègues pour savoir si le résultat était assez lisible pour eux ou non.
 
+### Évan : 
+
+Je n'ai pas réussi à allonger les animations des personnages. Et je n'ai pas réussi à arranger le bug d'animation du perso 2 (mecha) qui le faisait avancer et tourner tout seul dans le décor.
+
 ## Tâches effectuées
 
 - Compilation des capsules vidéo en une seule vidéo pour la remise
@@ -34,3 +48,5 @@ J'ai essayé de faire une animation avec les couleurs de notre projet tout en ga
 - Recherches et tests pour l'animation d'un écran d'attente
 - Faire en sorte que l'animation de l'écran d'attente joue en boucle
 - Finitions de l'écran d'attente
+- Ajout d'animations et d'effets au décor 3
+- Rendu final du décor 3
