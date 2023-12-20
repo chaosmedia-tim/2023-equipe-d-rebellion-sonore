@@ -16,21 +16,21 @@ J'ai améliorer l'agencement des objets dans le décor 2. Les montagnes m'agassa
 
 ### Évan :
 
-J'ai finalisé le décor 3 en ajoutant des animations (vaisseaux) et encore une fois faire de petites optmisations. J'ai ajouté des effets (lazer et explosion), ajouté les personnages et arrangé leur animations pour le décor et fait le rendu final.
+J'ai finalisé le décor 3 en ajoutant des animations (vaisseaux) et j'ai encore fait de petites optmisations. J'ai ajouté des effets (lasers et explosions), ajouté les personnages et arrangé leurs animations pour le décor et fait le rendu final du décor.
 
-Image de l'effet de lazer qui a été ajouté aux vaisseaux
-![Effet de lazer](../medias/effet_final.png)
+Image de l'effet de laser qui a été ajouté aux vaisseaux :
+![Effet de laser](../medias/effet_final.png)
 
-Image du rendu final
+Image du rendu final :
 ![Rendu final du décor 3](../medias/rendu_final.jpg)
 
 ### Kevin :
 
-Durant la semaine 14, je me suis mis à travailler sur la musique de l'écran d'attente. Pour y arriver, j'ai composé des riffs à la basse que j'ai pasr la suite enregistrer et j'ai programmer les percussions de la musique avec le drum track de Ableton. J'ai aussi fait la soudure d'une led afin de pouvoir remplacer l'une de nos leds qui était partiellement brisée lors de la général.
+Durant la semaine 14, je me suis mis à travailler sur la musique de l'écran d'attente. Pour y arriver, j'ai composé des riffs à la basse que j'ai par la suite enregistré et j'ai programmer les percussions de la musique avec le drum track de Ableton. J'ai aussi fait la soudure d'une LED afin de pouvoir remplacer l'une de nos LED qui était partiellement brisée lors de la générale.
 
 ### Xavier:
-J'ai faits et essayer de reparer des bugs. J'ai reussi a regler la majeur partie des bugs du dragon. J'ai crée le perso 2 avec les animation. Le personnage est un asset et les animation vienne de mixamo.
 
+J'ai essayé de reparer des bugs. J'ai réussi à regler la majeure partie des bugs du dragon. J'ai créé le perso 2 avec des animations. Le personnage est un asset et les animations viennent de Mixamo.
 
 ## Bons coups et réussites
 
@@ -38,9 +38,9 @@ J'ai faits et essayer de reparer des bugs. J'ai reussi a regler la majeur partie
 
 J'ai appris comment faire en sorte que ma vidéo joue en boucle dans Premiere Pro.
 
-### Kevin : 
+### Kevin :
 
-J'ai appris que je pouvais programmer les percussions dans une timeine à la place de lancer le recording et devoir jouer au tempo de la music avec les touches de mon clavier.
+J'ai appris que je pouvais programmer les percussions dans une timeline à la place de lancer le recording et de devoir jouer au tempo de la musique avec les touches de mon clavier.
 
 ## Difficultés et défis
 
@@ -48,17 +48,17 @@ J'ai appris que je pouvais programmer les percussions dans une timeine à la pla
 
 J'ai essayé de faire une animation avec les couleurs de notre projet tout en gardant la lisibilité (et faire en sorte que ça reste accessible), c'était un défi pour moi. Je me suis donc assurée d'obtenir l'avis de mes collègues pour savoir si le résultat était assez lisible pour eux ou non.
 
-### Évan : 
+### Évan :
 
-Je n'ai pas réussi à allonger les animations des personnages. Et je n'ai pas réussi à arranger le bug d'animation du perso 2 (mecha) qui le faisait avancer et tourner tout seul dans le décor.
+Je n'ai pas réussi à allonger les animations des personnages. De plus, je n'ai pas réussi à arranger le bug d'animation du perso 2 (mecha) qui le faisait avancer et tourner tout seul dans le décor.
 
 ### Kevin :
 
-J'ai eu de la difficulté à être sur le bon tempo avec les drums et la basse. Lors de mon premier essaie avec la soudure, j'ai fait fondre le cuivres à l'intérieur de la led empêchant celle-ci de fonctionner. À cause de cela, j'ai dû découper un autre morceau de led que j'ai souder au morceau qu'on avait déjà. De plus, je me suis brulé 3 fois parce que je suis maladroit à ce point. 
+J'ai eu de la difficulté à être sur le bon tempo avec les drums et la basse. Lors de mon premier essai avec la soudure, j'ai fait fondre le cuivre à l'intérieur de la LED, empêchant celle-ci de fonctionner. À cause de cela, j'ai dû découper un autre morceau de LED que j'ai soudé au morceau qu'on avait déjà. De plus, je me suis brulé 3 fois, parce que je suis maladroit à ce point.
 
 ### Xavier:
-BUg des animation du dragon du au transform et a la localisation des frames.
 
+Bug des animations du dragon dû au transform et à la localisation des frames.
 
 ## Tâches effectuées
 
@@ -71,7 +71,6 @@ BUg des animation du dragon du au transform et a la localisation des frames.
 - Ajout d'animations et d'effets au décor 3
 - Rendu final du décor 3
 - Musique de l'écran d'attente
-- Soudure d'une led
-- Mecha
-- Animation mecha
-- fix dragon
+- Soudure d'une LED
+- Mecha et ses animations
+- Fix dragon
