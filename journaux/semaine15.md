@@ -19,7 +19,7 @@ Pour la journée de ChaosMédia, je suis arrivé vraiment tôt (7h40). J'ai aid�
 
 ### Xavier:
 
-Je suis arriver au cegep à 8h. J'avais prépare mes outils en cas de besoin si trop d'équipe utilisait ceux des profs. J'ai trouver la journée un peu long, surtout pour les pieds, ont a rester debout durant presque tout la journée. Sinon, j'ai apprhésier la journée. Lorsque je suis parti avec Évan, il était 11h20. La remise des materiaux utiliser a été un peu chaotique mais je d pense que l'entiereter de la journéée pourrait etre definis comme tel.
+Je suis arrivé au Cégep à 8h. J'avais préparé mes outils en cas de besoin si trop d'équipes utilisaient ceux des profs. J'ai trouvé la journée un peu longue, surtout pour les pieds, on est resté debout durant presque toute la journée. Sinon, j'ai apprécié la journée. Lorsque je suis parti avec Évan, il était 11h20. La remise des matériaux utilisés a été un peu chaotique, mais je pense que l'entièreté de la journée pourrait être definie comme telle.
 
 ## Bons coups et réussites
 
@@ -39,11 +39,11 @@ On pensait que notre jeu ne fonctionnait pas du tout quelques minutes avant l'é
 
 ### Justin :
 
-On a eu de la difficulté à taper les fils sur le PVC, car le tape était difficile à décoller du rouleau (on a donc pris un autre). Aussi, on a dû attendre assez longtemps pour pouvoir percer le PVC afin de visser nos bandes à LED. En effet, on avait besoin d'une perceuse pour le faire et la seule équipe qui en avait une en avait besoin pour assez longtemps (on leur a emprunté pour une courte période de temps (on avait seulement 4 trous à faire)). Puisque les vis des supports à LED étaient vraiment petits, on n'avait pas pû les fixer au PVC avec une perceuse. Xavier avait pris l'initiative d'apporter son sac à outils et on a pû le faire avec un tournevis.
+On a eu de la difficulté à taper les fils sur le PVC, car le tape était difficile à décoller du rouleau (on a donc pris un autre). Aussi, on a dû attendre assez longtemps pour pouvoir percer le PVC afin de visser nos bandes à LED. En effet, on avait besoin d'une perceuse pour le faire et la seule équipe qui en avait une en avait besoin pour assez longtemps (on leur a emprunté pour une courte période de temps (on avait seulement 4 trous à faire)). Puisque les vis des supports à LED étaient vraiment petites, on n'avait pas pu les fixer au PVC avec une perceuse. Xavier avait pris l'initiative d'apporter son sac à outils et on a pu le faire avec un tournevis.
 
 ### Xavier:
 
-Gestion de temps difficile dû a mon examen en litterature qui a bien fini.(un gros stress supllémentaire)
+Gestion de temps difficile dû à mon examen en littérature qui a bien fini (un gros stress supplémentaire).
 
 ## Tâches effectuées
 
