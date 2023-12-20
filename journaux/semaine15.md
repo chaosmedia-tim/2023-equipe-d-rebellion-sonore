@@ -12,6 +12,8 @@ Cette semaine, c'était ChaosMédia. Je suis arrivée à l'école vers 7h45 et j
 ![ChaosMedia 1](../medias/ChaosMedia1.jpeg)
 
 ![ChaosMedia 2](../medias/ChaosMedia2.jpg)
+### Xavier:
+Je suis arriver au cegep à 8h. J'avais prépare mes outils en cas de besoin si trop d'équipe utilisait ceux des profs. J'ai trouver la journée un peu long, surtout pour les pieds, ont a rester debout durant presque tout la journée. Sinon, j'ai apprhésier la journée. Lorsque je suis parti avec Évan, il était 11h20. La remise des materiaux utiliser a été un peu chaotique mais je d pense que l'entiereter de la journéée pourrait etre definis comme tel.
 
 ## Bons coups et réussites
 
@@ -24,6 +26,9 @@ On a réussi à faire une meilleure gestion des câbles que je pensais. Je pensa
 ### Mégane :
 
 On pensait que notre jeu ne fonctionnait pas du tout quelques minutes avant l'évaluation. En effet, lorsqu'on pesait sur le bouton play et chargeait une scène, la musique et les notes ne jouaient pas. Finalement, Charles nous a écrit après son évaluation pour nous dire qu'il fallait simplement peser sur "enter". Tout était réglé !
+
+### Xavier:
+Gestion  de temps difficile dû a mon examen en litterature qui a bien fini.(un gros stress supllémentaire)
 
 ## Tâches effectuées
 
