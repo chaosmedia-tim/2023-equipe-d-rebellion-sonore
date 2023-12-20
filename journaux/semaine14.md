@@ -11,12 +11,12 @@ J'ai débuté la semaine en compilant les capsules vidéo en une seule vidéo. P
 
 ### Justin :
 
-J'ai améliorer l'agencement des objets dans le décor 2. Les montagnes m'agassaient, j'ai donc trouvé un asset qui rend bien meilleur au rendu. J'ai aussi trouvé un asset de bateaux de guerre pour ajouter plus d'épaves dans le décor. Voici à quoi ça ressemble :
+J'ai amélioré l'agencement des objets dans le décor 2. Les montagnes m'agaçaient, j'ai donc trouvé un asset qui rend bien meilleur au rendu. J'ai aussi trouvé un asset de bateaux de guerre pour ajouter plus d'épaves dans le décor. Voici à quoi ça ressemble :
 ![Décor 2 optimisé](../medias/decor2_opti.PNG)
 
 ### Évan :
 
-J'ai finalisé le décor 3 en ajoutant des animations (vaisseaux) et j'ai encore fait de petites optmisations. J'ai ajouté des effets (lasers et explosions), ajouté les personnages et arrangé leurs animations pour le décor et fait le rendu final du décor.
+J'ai finalisé le décor 3 en ajoutant des animations (vaisseaux) et j'ai encore fait de petites optimisations. J'ai ajouté des effets (lasers et explosions), ajouté les personnages et arrangé leurs animations pour le décor et fait le rendu final du décor.
 
 Image de l'effet de laser qui a été ajouté aux vaisseaux :
 ![Effet de laser](../medias/effet_final.png)
@@ -26,11 +26,11 @@ Image du rendu final :
 
 ### Kevin :
 
-Durant la semaine 14, je me suis mis à travailler sur la musique de l'écran d'attente. Pour y arriver, j'ai composé des riffs à la basse que j'ai par la suite enregistré et j'ai programmer les percussions de la musique avec le drum track de Ableton. J'ai aussi fait la soudure d'une LED afin de pouvoir remplacer l'une de nos LED qui était partiellement brisée lors de la générale.
+Durant la semaine 14, je me suis mis à travailler sur la musique de l'écran d'attente. Pour y arriver, j'ai composé des riffs à la basse que j'ai par la suite enregistré et j'ai programmé les percussions de la musique avec le drum track de Ableton. J'ai aussi fait la soudure d'une LED afin de pouvoir remplacer l'une de nos LED qui était partiellement brisée lors de la générale.
 
 ### Xavier:
 
-J'ai essayé de reparer des bugs. J'ai réussi à regler la majeure partie des bugs du dragon. J'ai créé le perso 2 avec des animations. Le personnage est un asset et les animations viennent de Mixamo.
+J'ai essayé de réparer des bugs. J'ai réussi à régler la majeure partie des bugs du dragon. J'ai créé le perso 2 avec des animations. Le personnage est un asset et les animations viennent de Mixamo.
 
 ## Bons coups et réussites
 
