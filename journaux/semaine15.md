@@ -21,6 +21,10 @@ Pour la journée de ChaosMédia, je suis arrivé vraiment tôt (7h40). J'ai aid�
 
 Je suis arrivé au Cégep à 8h. J'avais préparé mes outils en cas de besoin si trop d'équipes utilisaient ceux des profs. J'ai trouvé la journée un peu longue, surtout pour les pieds, on est resté debout durant presque toute la journée. Sinon, j'ai apprécié la journée. Lorsque je suis parti avec Évan, il était 11h20. La remise des matériaux utilisés a été un peu chaotique, mais je pense que l'entièreté de la journée pourrait être definie comme telle.
 
+### Évan :
+
+Après avoir passé 9 heurs dans la salle de spectacles, j'étais déjà un peu fatigué quand les invités sont arrivés à 17h. J'éai quand même survécus à la journée. C'tait amusant de voir la version finale des différents projets de nos collègues, bien que chacun ait eu leurs problèmes.
+
 ## Bons coups et réussites
 
 ### Mégane :
@@ -44,6 +48,10 @@ On a eu de la difficulté à taper les fils sur le PVC, car le tape était diffi
 ### Xavier:
 
 Gestion de temps difficile dû à mon examen en littérature qui a bien fini (un gros stress supplémentaire).
+
+### Évan : 
+
+Le soir, j'ai eu moins de motivation et la fatigue s'accumulait. J'avais envie de dormir sur la scène des fois. Sinon durant le montage, on a eu des problème pour lancer le jeu, mais cela a été réglé en cliquant sur un seul bouton.
 
 ## Tâches effectuées
 
