@@ -25,6 +25,10 @@ Je suis arrivé au Cégep à 8h. J'avais préparé mes outils en cas de besoin s
 
 Après avoir passé 9 heurs dans la salle de spectacles, j'étais déjà un peu fatigué quand les invités sont arrivés à 17h. J'éai quand même survécus à la journée. C'tait amusant de voir la version finale des différents projets de nos collègues, bien que chacun ait eu leurs problèmes.
 
+### Kevin :
+
+Cette semaine a eu lieu ChaosMédia. Lors de l'installation du projet, je me suis surtout occupé de l'aspect physique. C'est à dire le montage de la structure en PVC et l'installation des leds et du petit projecteur. Durant l'événement, j'ai a de multiple reprise supervisé l'installation et j'ai aidé l'équipe de Mission presque impossible vers la fin de l'évènement, car ils manquaient d'éffectif. Après la remise des pixels d'or, J'ai contribué comme le reste de mon équipe au démontage du projet. Je suis rester un peu plus tard que les autres avec Mégane pour finaliser le listage du matériel. Je dois aussi redonner à la disti de l'équipements qu'on avait loué sous le nom d'Évan ce jeudi. 
+
 ## Bons coups et réussites
 
 ### Mégane :
@@ -34,6 +38,11 @@ On a réussi à faire une meilleure gestion des câbles que je pensais. Je pensa
 ### Justin :
 
 On a réussi à assembler notre matériel plus rapidement que lors de la générale. Cette fois, on savait ce qu'on faisait !
+
+### Kevin :
+
+Je suis fier de notre installation. Je trouve qu'on a réussi à présenter quelque chose d'amusant. J'ai été surpris d'avoir reçu autant de compliment au sujet du projet. Personnellement, je n'ai entendu que du positif sur notre projet.
+
 
 ## Difficultés et défis
 
@@ -52,6 +61,10 @@ Gestion de temps difficile dû à mon examen en littérature qui a bien fini (un
 ### Évan : 
 
 Le soir, j'ai eu moins de motivation et la fatigue s'accumulait. J'avais envie de dormir sur la scène des fois. Sinon durant le montage, on a eu des problème pour lancer le jeu, mais cela a été réglé en cliquant sur un seul bouton.
+
+### Kevin : 
+
+En générale ça c'est passé beaucoup mieux que ce que j'avais imaginé. On a juste eu un peu peur 1 heure avant l'évaluation, car Charles était parti à son cours et on croyait que le projet ce lançait de la même manière qu'à la générale, donc on arrivait pas à lancer nos musique. Au final, Charles nous à envoyer un message sur Teams et il suffisait seulement d'appuyer sur enter...
 
 ## Tâches effectuées
 
