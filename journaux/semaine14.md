@@ -24,6 +24,10 @@ Image de l'effet de laser qui a été ajouté aux vaisseaux :
 Image du rendu final :
 ![Rendu final du décor 3](../medias/rendu_final.jpg)
 
+### Charles:
+
+J'ai intégré et programmé les dernières choses qui restait a faire, comme le feedback qu'on a eu pendant les tests de la générale, et les derniers modèles et éléments faits par les autres membres de l'équipe.
+
 ### Kevin :
 
 Durant la semaine 14, je me suis mis à travailler sur la musique de l'écran d'attente. Pour y arriver, j'ai composé des riffs à la basse que j'ai par la suite enregistré et j'ai programmé les percussions de la musique avec le drum track de Ableton. J'ai aussi fait la soudure d'une LED afin de pouvoir remplacer l'une de nos LED qui était partiellement brisée lors de la générale.
