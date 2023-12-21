@@ -17,6 +17,10 @@ Cette semaine, c'était ChaosMédia. Je suis arrivée à l'école vers 7h45 et j
 
 Pour la journée de ChaosMédia, je suis arrivé vraiment tôt (7h40). J'ai aidé à l'assemblage de la scène (PVC) ainsi que le filage (j'avais apporté 3 rallonges pour cela). J'ai joué avec des invités et j'ai animé le jeu pour ceux qui y jouaient. Je suis resté assez tard pour aider au démontage de la scène et pour rapporter le matériel au bureau des profs.
 
+### Charles:
+
+Pendant ChaosMedia j'ai installé mon ordi avec tous les logiciels ouverts, j'ai attribué tous les addresses DMX sur les lumières, j'ai réparé quelques bugs, ajusté et branché les speakers et le mixer d'audio. J'ai dû aller a un cours d'éducation physique, mais pendant ce temps mes coéquipiers ont bien fini les LEDs et le branchement de l'Arduino.
+
 ### Xavier:
 
 Je suis arrivé au Cégep à 8h. J'avais préparé mes outils en cas de besoin si trop d'équipes utilisaient ceux des profs. J'ai trouvé la journée un peu longue, surtout pour les pieds, on est resté debout durant presque toute la journée. Sinon, j'ai apprécié la journée. Lorsque je suis parti avec Évan, il était 11h20. La remise des matériaux utilisés a été un peu chaotique, mais je pense que l'entièreté de la journée pourrait être définie comme telle.
