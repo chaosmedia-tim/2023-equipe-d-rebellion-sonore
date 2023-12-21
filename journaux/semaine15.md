@@ -19,7 +19,7 @@ Pour la journée de ChaosMédia, je suis arrivé vraiment tôt (7h40). J'ai aid�
 
 ### Charles:
 
-Pendant ChaosMedia j'ai installé mon ordi avec tous les logiciels ouverts, j'ai attribué tous les addresses DMX sur les lumières, j'ai réparé quelques bugs, ajusté et branché les speakers et le mixer d'audio. J'ai dû aller a un cours d'éducation physique, mais pendant ce temps mes coéquipiers ont bien fini les LEDs et le branchement de l'Arduino.
+Pendant ChaosMedia, j'ai installé mon ordi avec tous les logiciels ouverts, j'ai attribué toutes les addresses DMX sur les lumières, j'ai réparé quelques bugs et j'ai ajusté ainsi que branché les speakers et le mixer d'audio. J'ai dû aller a un cours d'éducation physique, mais pendant ce temps mes coéquipiers ont bien fini les LED et le branchement de l'Arduino.
 
 ### Xavier:
 
