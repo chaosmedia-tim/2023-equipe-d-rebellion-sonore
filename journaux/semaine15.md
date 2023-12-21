@@ -23,7 +23,7 @@ Je suis arrivé au Cégep à 8h. J'avais préparé mes outils en cas de besoin s
 
 ### Évan :
 
-Après avoir passé 9 heurs dans la salle de spectacles, j'étais déjà un peu fatigué quand les invités sont arrivés à 17h. J'éai quand même survécus à la journée. C'tait amusant de voir la version finale des différents projets de nos collègues, bien que chacun ait eu leurs problèmes.
+Après avoir passé 9 heures dans la salle de spectacles, j'étais déjà un peu fatigué quand les invités sont arrivés à 17h. J'ai quand même survécu à la journée. C'était amusant de voir la version finale des différents projets de nos collègues, bien que chacun ait eu leurs problèmes.
 
 ### Kevin :
 
